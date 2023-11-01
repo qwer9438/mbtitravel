@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293463959834",
+    "project_id": "mbtiapp-67426",
+    "storage_bucket": "mbtiapp-67426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293463959834:android:213699403f4f3f51cd24a3",
+        "android_client_info": {
+          "package_name": "com.example.mbti_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1C62NvEXWEx--g_lLCto5OQdNBsAnwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293463959834:android:4daf78ad6f6fafc7cd24a3",
+        "android_client_info": {
+          "package_name": "com.example.mbtitravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1C62NvEXWEx--g_lLCto5OQdNBsAnwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

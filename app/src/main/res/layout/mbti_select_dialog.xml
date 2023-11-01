@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+    <TextView
+        android:gravity="center"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="MBTI를 선택해 주세요"/>
+
+    <Spinner
+        android:id="@+id/sp_select_mbti_dialog"
+        android:layout_margin="10dp"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_submit_mbti_dialog"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="확인"/>
+
+    <Button
+        android:id="@+id/btn_mbti_test_mbti_dialog"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="테스트를 통해 알아보기"/>
+
+</LinearLayout>

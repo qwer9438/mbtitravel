@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MBTI_TRAVEL</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="kakao_key">kakao5b90686d8f96870856aed56213c805ae</string>
+
+    <string name="social_login_info_naver_client_id">UA8N05gn1E2lCfTeoXy2</string>
+    <string name="social_login_info_naver_client_secret">Gc25VRgfKu</string>
+    <string name="social_login_info_naver_client_name">mbti</string>
+</resources>

@@ -1,0 +1,1194 @@
+{
+  "trip": {
+    "1": {
+      "Name": "청주랜드",
+      "lat": 36.6503764,
+      "lon": 127.515494,
+      "info": "충청북도 청주시 상당구 명암동 명암로 171",
+      "introduce": "1988년도에 개관, 제1전시관은 지하1층 지상3층으로, 제2전시관은 지하1층, 지상3층이다, 본관 1층에는 자연전시실, 문화전시실,북한관, 강당, 해양수족관이 2층에는 유아오락실, 컴퓨터실,컴퓨터오락실이 있고, 3층에는 입체영상관이 있다. 그외에 유희시설로 미니기차,공중자전거,박치기차, 우주전차, 회전목마등이 있다 운영: 화,수,목,금,토,일 오전 9:00~오후 18:00 운영, 매주 월요일 정기휴무",
+      "mbti": "ESFP, ESTP, ENFP, ENTJ, ESTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 사람들과의 교류와 즐거운 분위기를 즐깁니다. 청주랜드의 다양한 엔터테인먼트와 액티비티, 테마파크 내의 분위기를 즐기는 경향이 있을 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 모험적이고 스릴을 추구하는 경향이 있습니다. 청주랜드의 롤러코스터, 스릴 넘치는 놀이기구, 액티비티 등을 선호할 수 있습니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 사람들과의 연결을 추구합니다. 다양한 테마와 엔터테인먼트가 제공되는 청주랜드에서 새로운 체험을 즐기는 것을 선호할 수 있습니다.\nENTJ (Extraverted Intuitive Thinking Judging): ENTJ 유형은 목표 지향적이고 리더십을 발휘하는 경향이 있습니다. 청주랜드의 다양한 테마와 엔터테인먼트를 계획적으로 즐기고 조직하는 것을 선호할 수 있습니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 조직적이고 구조적인 활동을 선호합니다. 청주랜드에서 다양한 엔터테인먼트를 계획적으로 즐기고 일정을 조율하는 것을 선호할 수 있습니다.",
+      "image": "https://locallife.news/news/data/20190710/p1065625178595318_430.jpg"
+    },
+    "2": {
+      "Name": "수암골",
+      "lat": 36.6473302,
+      "lon": 127.494282,
+      "info": "충청북도 청주시 상당구 수암로 58 (수동)\ntel: 043-253-1330",
+      "introduce": "2007년 공공미술프로젝트로 진행된 벽화작업을 통해 많은 벽화들과 예술작품들이 있다. 드라마 <카인과 아벨>, <제빵왕 김탁구> 등을 촬영하면서 더욱 유명해졌다. 수암골 끝자락의 전망대에 서면 청주시내 전경이 한 눈에 들어오며, 수암골 카페거리에 예쁘고 다양한 카페들이 있고 청주에서 촬영한 영화들을 소개하는 포토존이 있다.",
+      "mbti": "ENFP, INFJ, ISFP, INFP, ISTP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 아름다운 자연 환경과 평화로운 분위기를 즐깁니다. 수암골의 자연 경관과 조용한 분위기에서 휴식과 자연을 즐길 수 있을 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 깊은 감수성과 내면 성장을 추구하는 경향이 있습니다. 수암골의 아름다운 자연과 평화로운 분위기에서 사색에 잠기고 휴식을 취할 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험적인 경험과 자연을 즐깁니다. 수암골의 산과 계곡에서 하이킹이나 트레킹을 즐기며 자유로운 분위기를 즐길 수 있을 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 사람들과의 연결을 추구합니다. 수암골에서 자연을 감상하며 새로운 경험을 만들고 사람들과 교류할 수 있는 기회를 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 추구합니다. 수암골의 자연 경관과 조용한 분위기에서 내면적인 성장과 사색에 잠길 수 있을 것입니다.",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA3MTRfMjEz/MDAxNjI2MjQ1NzU0NDc2.cXCg6hP-RXWn0zZQ9mX7_eZ-n5nHdiBFT52WRbmLkuUg.aBLGDpkAEMrevAWAjqxBJxPtblBXTmu2DY7UeqJLbFYg.PNG.redis12/2.png?type=w800"
+    },
+    "3": {
+      "Name": "성안길",
+      "lat": 36.6334997,
+      "lon": 127.487295,
+      "info": "충청북도 청주시 상당구 상당로59번길 59",
+      "introduce": "청주읍성의 남문과 북문을 연결하는 큰 길이 있었는데 그 길이 지금의 성안길이 되었다. 성안길과 연결된 로데오거리와 용두사지 철당간 광장이 있으며 인근에 백화점, 대형 쇼핑센터와 영화관이 3개나 있고 중앙공원, 상당공원이 있어 항상 젊은이들로 북적여 젊음의 거리, 패션의 거리, 문화의 거리로 손꼽히고 있다. 청주 중앙공원은 넷플릭스 드라마 더글로리에서 바둑공원 촬영지로 등장하였다.",
+      "mbti": "ISFJ, ISTJ, INFJ, ISFP, ISTP\\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 역사적인 장소와 전통을 소중히 여기는 경향이 있습니다. 성안길의 역사적인 건물과 전통 문화를 경험하고 감상하는 것을 즐길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 조직적인 성향을 가지고 있으며, 역사와 전통에 대한 관심이 있습니다. 성안길의 역사적인 유적과 전통 문화를 탐방하고 조용하고 조직적인 분위기를 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 위한 경험을 선호합니다. 성안길에서 역사적인 분위기와 전통 문화를 체험하며 내면적으로 성장하고 고요한 시간을 보낼 수 있을 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 아름다운 자연 경관과 예술적인 분위기를 즐깁니다. 성안길의 전통적인 건물과 예술 작품을 감상하며 조용하고 평화로운 분위기를 즐길 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험과 자연을 즐기는 경향이 있습니다. 성안길의 자연적인 환경과 역사적인 유적을 탐험하며 자유로운 분위기를 즐길 수 있을 것입니다.",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/67/1967767_image2_1.jpg"
+    },
+    "4": {
+      "Name": "오창호수공원",
+      "lat": 36.7139606,
+      "lon": 127.423444,
+      "info": "충청북도 청주시 청원구 오창읍 양청리 753\ntel: 043-201-8631",
+      "introduce": "탁트인 호수 전경과 푸릇푸릇한 초록의 향연을 보고 느낄 수 있는 편안하게 산책할 수 있는 환경과 가족들이 오붓하게 시간을 보내다가 갈 수 있는 시설들이 많아 나들이 장소로도 제격인 곳입니다. 문화휴식공원과 호암저수지가 있고 공중시설들이 있어 편안하게 나들이할 수 있다.",
+      "mbti": "ESFP, ENFP, ISFP, ISTP, INFP\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즐거운 분위기와 사회적 활동을 선호합니다. 오창 호수공원의 자연 경관과 함께 다양한 액티비티를 즐길 수 있는 공간에서 사람들과 함께 시간을 보내는 것을 즐길 수 있을 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 사람들과의 연결을 추구합니다. 오창 호수공원에서 자연을 감상하며 새로운 사람들과 교류하고 다양한 액티비티를 즐길 수 있는 기회를 찾을 수 있을 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 아름다운 자연 환경과 평화로운 분위기를 즐깁니다. 오창 호수공원의 자연 경관과 조용한 분위기에서 휴식과 자연을 즐길 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험적인 경험과 자연을 즐깁니다. 오창 호수공원에서 산책이나 자전거 타기와 같은 액티비티를 즐기며 자유로운 분위기를 즐길 수 있을 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 깊은 감수성과 내면 성장을 추구하는 경향이 있습니다. 오창 호수공원의 아름다운 자연과 평화로운 분위기에서 사색에 잠기고 휴식을 취할 수 있을 것입니다.",
+      "image": "https://freetour.chungbuk.go.kr/DATA/tour/774/thumb/p_E508D513-C14F-08F9-3A13-D8ED0500F7EC.jpg"
+    },
+    "5": {
+      "Name": "무심천",
+      "lat": 36.7139606,
+      "lon": 127.423444,
+      "info": "충청북도 청주시 청원구 내덕로7번길 53\ntel: 043-201-2932",
+      "introduce": "충청북도 청주시를 흐르는 하천으로 마음을 비운다 는 뜻의 무심천은 청주를 동서로 구분한다. 강가에는 메밀, 밀, 목화. 유채꽃, 벚꽃 등 한국 고유 수종이 사계절 만발하며 시원한 수경분수, 인라인스케이트장, 자전거 전용도로, 산책로 등 시민편의시설과 체육시설이 있다.",
+      "mbti": "ISFP, INFP, ISTP, INFJ, ENFP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 아름다운 자연 환경을 즐깁니다. 무심천의 자연적인 경관과 평화로운 분위기에서 휴식과 자연을 즐길 수 있을 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 깊은 감수성과 내면 성장을 추구하는 경향이 있습니다. 무심천의 자연과 조용한 분위기에서 사색에 잠기고 휴식을 취할 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험적인 경험과 자연을 즐깁니다. 무심천에서 트레킹이나 하이킹을 즐기며 자유로운 분위기를 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 추구합니다. 무심천의 자연 경관과 조용한 분위기에서 내면적인 성장과 사색에 잠길 수 있을 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 사람들 과의 연결을 추구합니다. 무심천에서 자연을 감상하며 새로운 사람들과 교류하고 다양한 액티비티를 즐길 수 있는 기회를 찾을 수 있을 것입니다.",
+      "image": "https://www.jbnews.com/news/photo/201903/1240834_1039313_3038.jpg"
+    },
+    "6": {
+      "Name": "수안보온천",
+      "lat": 36.8469466,
+      "lon": 127.990871,
+      "info": "충북 충주시 수안보면 물탕2길 17 (온천리, 중원회관)\ntel: 043-846-3605",
+      "introduce": "수안보는 ‘물안비’라는 아름다운 우리말 이름이 있다. 온천수가 솟아나는 곳을 ‘물이 솟는 보의 안쪽 마을’이라는 뜻에서 ‘물안보’, ‘물안비’라고 부르다가 한자로 바뀌면서 수안보가 되었다. 안보 온천수는 리듐을 비롯한 칼슘, 나트륨, 불소, 마그네슘 등 인체에 이로운 각종 광물질이 함유되어 있고 수질이 부드러우며 경쾌하다. 수안보 온천지대의 지층은 원적외선뿐만 아니라 각종 광물질 성분이 풍부히 함유되어, 인체에 유익한 세계적인 온천수이다. 수안보 근처에 자전거 종주 코스도 지나가고, 곤충박물관, 족욕길 등 다양한 관광명소가 있다.",
+      "mbti": "ISFJ, ESFP, INFJ, ENFJ, ISTJ\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 편안하고 안정적인 분위기를 선호합니다. 수안보 온천의 온기와 힐링 효과를 통해 몸과 마음을 휴식시킬 수 있을 것입니다.\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 사회적인 활동과 재미를 추구합니다. 수안보 온천의 스파 시설과 다양한 활동을 즐길 수 있는 공간에서 사람들과 함께 시간을 보내는 것을 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 추구합니다. 수안보 온천의 평화로운 분위기와 명상적인 경험을 통해 내면적인 성장과 휴식을 취할 수 있을 것입니다.\nENFJ (Extraverted Intuitive Feeling Judging): ENFJ 유형은 다른 사람들과의 교류와 연결을 중요시합니다. 수안보 온천에서 사람들과 소통하고 함께 휴식을 즐기며 새로운 인연을 만들 수 있는 기회를 찾을 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정성과 조화를 중요시합니다. 수안보 온천의 온기와 온천 효과를 통해 몸과 마음을 회복하며 안정된 분위기에서 휴식을 취할 수 있을 것입니다.",
+      "image": "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/wlQ/image/p-gx-ioY7FGsOQlTkMAGLLtcsDI"
+    },
+    "7": {
+      "Name": "충주 라바랜드",
+      "lat": 36.9908469,
+      "lon": 127.907038,
+      "info": "충북 충주시 남한강로 30 (금릉동, 라바랜드)\ntel: 043-852-7721",
+      "introduce": "유쾌하고 코믹한 악동, 라바 친구들과 함께하는 어린이 테마파크, 라바테마파크는 국내 최대 규모의 교육‧체험 클래스와 다양한 복합 놀이시설이 어우러진 국내 최대의 키즈 문화 콘텐츠다, ◦실내(키즈카페) 놀이시설 8종(트램폴린, 볼대포장, 볼풀장, 플레이짐, 에어바운스, 붕붕카존, 편백놀이방, 모래놀이방), 수유실, 파티룸, 라바극장, 화장실, 카페, 푸드코트 ◦옥외 (건물옥상) 놀이기구 5종(범파카, 레이싱카, 회전라바, 스윙카, 기차) ◦실외 (야외 놀이공원) 놀이기구 6종(바이크존, 로켓, UFO, 라이더, 관람차, 미끄럼틀)",
+      "mbti": "ESTP, ISTP, ESFP, ISTJ, ESTJ\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 모험적인 활동과 도전을 즐깁니다. 라바랜드에서 라바 화산재 체험을 통해 스릴과 도전을 느끼며 자연과의 교감을 즐길 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험적인 경험과 자연을 즐깁니다. 라바랜드에서 카약이나 자전거 타기와 같은 액티비티를 통해 자유로운 분위기를 즐길 수 있을 것입니다.\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즐거운 분위기와 사회적 활동을 선호합니다. 라바랜드에서 다양한 활동과 체험을 즐기며 사람들과 함께 시간을 보내는 것을 즐길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정성과 조화를 중요시합니다. 라바랜드의 자연적인 환경과 조용한 분위기에서 휴식과 체험을 즐길 수 있을 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 실용적이고 활동적인 경험을 추구합니다. 라바랜드에서 다양한 액티비티와 체험을 통해 실용적인 재능을 발휘하고 자연과의 교감을 즐길 수 있을 것입니다.",  
+      "image": "https://img5.yna.co.kr/etc/inner/KR/2022/02/28/AKR20220228060900064_01_i_P2.jpg"
+    },
+    "8": {
+      "Name": "활옥동굴",
+      "lat": 36.9625691,
+      "lon": 128.007041,
+      "info": "충북 충주시 목벌안길 26\ntel: 0507-1447-0517",
+      "introduce": "활옥동굴(구 동양광산)은 1900년에 발견되고 1919년 광산으로 개발이 시작되어 백옥, 활석, 백운석 등을 채취하던 광산입니다. 광복 후 광산 규모가 성장하면서 한때 세계 각국에 광물을 수출하고 국내 수요도 충당하는 동양 최대 규모의 광산으로 자리잡았습니다. 어두운 느낌의 다른 동굴들과 달리, 백색 모암이 아름다움을 뽐내는 활옥동굴은 밝고 은은한 느낌을 주며 그 속에서 맑고 시원한 공기를 마실 수 있습니다. 또한 곳곳에서 광산의 흔적을 체험할 수 있습니다. 또한 활옥동굴에서 넷플릭스 드라마 D.P를 촬영하였습니다.",
+      "mbti": "ISTP, ISFP, INFJ, INTJ, ENFP\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 자연과의 교감과 모험을 즐깁니다. 활옥동굴에서 동굴 탐험을 통해 모험과 스릴을 느낄 수 있을 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연의 아름다움을 감상하는 것을 즐깁니다. 활옥동굴에서 석순과 석쇠의 아름다움을 감상하며 자연과의 조화를 느낄 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 추구합니다. 활옥동굴의 조용한 분위기와 동굴 내부의 신비한 경관에서 내면적인 성장과 사색에 잠길 수 있을 것입니다.\nINTJ (Introverted Intuitive Thinking Judging): INTJ 유형은 지적인 호기심과 탐구심을 가지고 있습니다. 활옥동굴의 동굴 현상과 과학적인 이론에 대해 탐구하며 지식을 확장할 수 있을 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 자연과의 교감을 추구합니다. 활옥동굴에서 새로운 환경과 자연적인 현상을 탐험하며 사람들 과의 교류를 통해 즐거운 시간을 보낼 수 있을 것입니다.",
+      "image": "https://www.ilyosisa.co.kr/data/photos/20211251/art_16399607975815_fd5c32.jpg"
+    },
+    "9": {
+      "Name": "충주호",
+      "lat": 36.9705673,
+      "lon": 128.007393,
+      "info": "충청북도 충주시 종민동 11\ntel: 043-850-6741",
+      "introduce": "충주댐 건설로 생긴 충주호는 ‘내륙의 바다’라 불릴 정도로 규모가 크다. 충주, 단양, 제천 3개 지자체에 걸쳐 있어 주변으로 월악산국립공원, 송계계곡, 청풍문화재단지, 단양 팔경, 고수동굴, 구인사, 수안보온천, 노동동굴 등 수많은 관광자원들을 보유하고 있다. 충주호에는 충주댐 본댐의 충주나루, 월악산 비경 아래의 월악나루, 청풍문화재단지 인근의 청풍나루, 단양팔경의 구담봉, 옥순봉이 있는 장회나루, 단양읍의 단양나루 등 총 5개의 유람선 선착장이 설치되어 있어 충주호 관광선을 이용하여 호반의 정취를 즐길 수 있다.",
+      "mbti": "ESFP, ISTP, ESTJ, ISFJ, ENFP\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즐거운 분위기와 사회적인 활동을 즐깁니다. 충주호에서 수상 스포츠나 보트 타기와 같은 액티비티를 즐기며 사람들과 함께 시간을 보내는 것을 즐길 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 모험적인 경험과 자연을 즐깁니다. 충주호에서 하이킹이나 낚시와 같은 액티비티를 통해 자유로운 분위기를 즐길 수 있을 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 실용적이고 활동적인 경험을 추구합니다. 충주호에서 다양한 액티비티와 레크리에이션 활동을 통해 실용적인 재능을 발휘하고 자연과의 교감을 즐길 수 있을 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 편안하고 안정된 분위기를 선호합니다. 충주호 주변의 아름다운 풍경과 조용한 자연 환경에서 휴식을 취하며 자연과의 조화를 느낄 수 있을 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 자연과의 교감을 추구합니다. 충주호에서 자연적인 풍경을 감상하고 사람들과의 교류를 통해 즐거운 시간을 보낼 수 있을 것입니다.",
+      "image": "https://www.chungjuhocruise.com/img/main/visual_chu_01.jpg"
+    },
+    "10": {
+      "Name": "탄금호",
+      "lat": 37.0230798,
+      "lon": 127.861909,
+      "info": "충청북도 충주시 중앙탑면 탑평리542-1",
+      "introduce": "1985년에 충주댐과 함께 건설된 조정지댐으로 인해 형성된 인공호수이다. 2004년 충주시가 시민과 공무원을 대상으로 여론조사를 하여 호수 이름을 탄금호로 정하고, 2004년 8월 4일에 명명식까지 열었다. 탄금호 호반에는 물놀이장·중앙탑공원·가금체육공원·수변무대 등의 문화·휴식공간이 들어서 있고, 호수 주변으로 조성된 도로는 아름다운 경치를 자랑하는 드라이브코스로 각광받고 있다",
+      "mbti": "ISFP, INFP, ISTJ, INTJ, INFJ\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 아름다운 자연을 즐깁니다. 탐금호의 평화로운 분위기와 풍경을 감상하며, 자연과의 조화를 느낄 수 있을 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 깊은 감성과 내면적인 경험을 중요시합니다. 탐금호의 조용한 분위기에서 자신과 대화하며, 아름다운 자연의 풍경을 감상하며 사색에 잠길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정성과 조화를 중요시합니다. 탐금호의 조용한 분위기에서 휴식과 천천히 즐길 수 있는 시간을 가질 수 있을 것입니다.\nINTJ (Introverted Intuitive Thinking Judging): INTJ 유형은 지적인 호기심과 독립적인 사고를 가지고 있습니다. 탐금호의 조용한 환경에서 독서, 사색, 자신과의 대화 등을 통해 지식을 확장하고 내면적인 성장을 추구할 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 심리적인 성장을 추구합니다. 탐금호의 조용한 분위기와 아름다운 풍경에서 내면적인 성장과 사색에 잠길 수 있을 것입니다.",
+      "image": "https://cdn.ccdn.co.kr/news/photo/202004/642171_272699_2437.jpg"
+    },
+    "11": {
+      "Name": "청풍호",
+      "lat": 37.0019847,
+      "lon": 128.167141,
+      "info": "충북 제천시 청풍면 문화재길 166",
+      "introduce": "청풍호는 충주호가 육지 속의 바다라고 부를 정도로 넓은 호수다. 이곳 사람들이 수몰된 고향에 대한 안타까운 마음을 담아 부르는 이름은 ‘청풍호’이고 나라에서 붙여준 이름은 ‘충주호’다. 충주호가 충주~제천~단양에 이르는 65Km의 국내 최대 인공호수로 제천에서도 충주호를 즐길 수 있다. 청풍호는 어종이 풍부해서 낚시꾼들이 많이 찾는다고 한다. 제천까지 흐르는 충주호 근처에서는 청풍호반케이블카, 청풍호 관광모노레일, 청풍호 유람선을 즐길 수 있다.",
+      "mbti": "ESFP, ISFP, ENFJ, ISTJ, INFJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즐거운 분위기와 활동적인 액티비티를 즐깁니다. 청풍호에서 수상 스포츠나 보트 타기와 같은 액티비티를 통해 즐거운 시간을 보낼 수 있을 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 아름다운 자연을 즐깁니다. 청풍호의 자연 경관을 감상하며 휴식을 취하고, 조용한 분위기에서 자연과의 조화를 느낄 수 있을 것입니다.\nENFJ (Extraverted Intuitive Feeling Judging): ENFJ 유형은 사회적인 활동과 자연과의 교감을 추구합니다. 청풍호에서 사람들과 함께 시간을 보내며, 자연의 아름다움을 공유하고 즐길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정성과 실용성을 중요시합니다. 청풍호에서 조용한 환경과 천천히 휴식을 취하며, 실용적인 레크리에이션 활동을 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 내면적인 성장을 추구합니다. 청풍호의 조용한 분위기와 아름다운 풍경에서 자신과의 교감을 즐기며, 사색에 잠길 수 있을 것입니다.",
+      "image": "https://tour.jecheon.go.kr/DATA/clturCntnts/20210329021431026bN3.jpg"
+
+    },
+    "12": {
+      "Name": "의림지",
+      "lat": 37.1738748,
+      "lon": 128.208126,
+      "info": "충북 제천시 의림지로 33 (모산동)\ntel: 043-651-7101 (의림지관광안내소)",
+      "introduce": "우리 나라에서 오랜 역사를 가진 저수지로 손꼽힌다. 우리나라의 대표적인 수리시설 중의 하나로, 삼한시대부터 있었던 것으로 알려져 있다. 제림은 의림지 제방 위에 조성된 소나무와 버드나무 숲이다. 주종은 수백 년 묵은 노송이며 버드나무, 전나무, 은행나무, 벚나무 등이 함께 자라 아름다운 경관을 자아낸다. 오리배를 타고 의림지를 구경할 수 있고 용추폭포 유리전망대가 있어 전망대 바닥이 투명한 유리로 되어 있어 용추폭포를 더 재미있게 구경할 수 있다. 의림지 근처에 의림지파크랜드라는 놀이공원이 있다. 시원한 의림호의 경관속에 동적인 가족단위 여가활동을 즐기기 좋은 곳이다. 공원에는 어린이들을 위한 각종 놀이기구와 성인들이 즐길 수 있는 전동카등의 놀이기구 시설들이 있다.",
+      "mbti": "ISFP, INFP, ISTJ, INFJ, ISFJ\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 아름다운 자연을 즐깁니다. 의림지의 자연 경관과 계곡에서 휴식을 취하며, 자연과의 조화를 느낄 수 있을 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 깊은 감성과 내면적인 경험을 중요시합니다. 의림지의 조용한 분위기에서 자신과 대화하며, 자연의 아름다움을 감상하고 사색에 잠길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정성과 실용성을 중요시합니다. 의림지에서 조용한 환경과 천천히 휴식을 취하며, 실용적인 활동을 즐길 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 이해와 내면적인 성장을 추구합니다. 의림지의 조용한 분위기와 아름다운 풍경에서 자신과의 교감을 즐기며, 사색에 잠길 수 있을 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 편안하고 조화로운 분위기를 선호합니다. 의림지의 조용한 환경과 자연 경관에서 휴식을 취하며, 자연과의 조화를 느낄 수 있을 것입니다",
+      "image": "https://tour.jecheon.go.kr/DATA/clturCntnts/202012030601535899HE.jpg"
+
+    },
+    "13": {
+      "Name": "태라글램핑",
+      "lat": 37.1744508,
+      "lon": 128.109513,
+      "info": "충북 제천시 봉양읍 제원로8길 21-26 제천태라리조트\ntel: 010-6353-1251, 043-645-1300",
+      "introduce": "글램핑장이 숲속에 비밀 공간처럼 자리 잡았다. 울창한 수목 사이에 사이트를 배치해 자연친화적인 느낌이 강하다. 마치 트리하우스에 머무는 기분이다. 객실 간 거리가 멀어 더없이 프라이빗한 캠핑을 즐길 수 있다. 객실 내부에는 침대, 냉난방기, TV, 냉장고, 취사도구, 조리도구, 소파 등이 있다. 외부 전용 데크에는 개수대, 바비큐 시설을 배치했다. 개수대에서 나오는 물은 지하 200m 암반수다. 봄, 여름, 가을에만 운영하며, 매년 11월 초부터 이듬해 3월까지 휴장한다. 입실시간 : 오후 3시, 퇴실시간 : 오전 11시 ",
+      "mbti": "ENFP, ESFJ, ESTP, ISTP\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 모험적이고 독특한 경험을 즐깁니다. 타라 글램핑에서 자연과의 연결을 느끼며 동시에 편안한 숙박 시설과 편의 시설을 이용할 수 있다는 점을 감사하게 여길 것입니다.\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 조화, 편안함, 그리고 사회적 경험을 중요시합니다. 타라 글램핑은 자연과 고급스러움을 결합하여 제공하므로, ESFJ들은 야외의 평온함과 편안한 환경에서 다른 사람들과 교류할 수 있는 기회를 즐길 수 있을 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 활동적이고 스릴을 즐기는 경향이 있습니다. 타라 글램핑은 야외 활동과 고급 시설을 조합하여 제공하므로, ESTP 유형들은 글램핑의 흥미와 모험을 즐기며 편안한 환경에서 즐거운 시간을 보낼 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 실용성과 실천적인 경험을 중요시합니다. 타라 글램핑은 자연에 몰입하고 야외 활동을 즐길 수 있는 동시에 편안한 숙박을 제공하므로, ISTP 유형들은 글램핑에서 만족스러운 경험을 할 수 있을 것입니다.",
+      "image": "https://www.5gcamp.com/files/camping/2018/01/22/d19b3614a5210a6b0924a212d47e45e2210500.jpg"
+    },
+    "14": {
+      "Name": "청풍랜드",
+      "lat": 37.0130349,
+      "lon": 128.177725,
+      "info": "충북 제천시 청풍면 청풍호로50길 6 (청풍면)\ntel: 043-648-4151",
+      "introduce": "청풍랜드는 충청북도 제천시 청풍면 일대의 풍경이 뛰어난 청풍호반 만남의 광장에 2001년 11월에 건립하였으며, 각 시설물들의 시운전을 통하여 안전성을 검증한 후 2002년 4월 13일 개장하였다. 62m 번지점프와 국내 최초로 설치된 이젝션시트 그리고 아름다운 청풍호수를 향해 반원을 그리며 창공을 나는 빅스윙 등 3개의 시설물을 하나의 타워에 설치한 복합멀티타워를 보유한 국내 최초 및 최대의 업장이다. 또한 국내 최고 규모인 인공 암벽장, 162m로 솟아오르는 장엄한 수경분수, 매점, 인공폭포, 아름다운 산책로, 조각공원, 국내 최초 수상위의 공연장인 제천 수상아트홀, 관광정보센터 등이 함께 위치하고 있다.10:00~18:00(평일), 10:00~20:00(주말, 국경일) / 동절기 휴장 매표시간 : 09시 30분 ~ 17시 까지* 운영시간 : 10시 ~ 18시 청풍랜드 점심시간 : 주중 12시-13시 입실시간 : 오후 3시, 퇴실시간 : 오전 11시",
+      "mbti": "ESFP, ENFP, ESTP, ISTP\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즉각적이고 즐거운 활동을 선호합니다. 청풍랜드에서 다양한 레크리에이션 시설과 엔터테인먼트를 즐길 수 있으므로, ESFP 유형들은 활기차고 자극적인 경험을 선호할 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 창의적인 활동을 즐깁니다. 청풍랜드의 다양한 테마 파크와 엔터테인먼트 시설에서 자유롭게 즐길 수 있는 환경이기 때문에, ENFP 유형들은 새로움과 창의성을 추구하는 성향에 맞을 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 활동적이고 실용적인 경험을 선호합니다. 청풍랜드에서 제공하는 다양한 레크리에이션 시설과 스포츠 활동을 즐기며 자신의 능력을 발휘할 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 실용성과 실천적인 경험을 중요시합니다. 청풍랜드의 다양한 레크리에이션 시설과 액티비티를 통해 자연과의 상호작용과 실전적인 활동을 즐길 수 있기 때문에,ISTP 유형들은 만족스러운 경험을 할 수 있을 것입니다.",
+      "image": "https://tour.jecheon.go.kr/DATA/clturCntnts/20201203033834835hnp.jpg"
+
+    },
+    "15": {
+      "Name": "속리산",
+      "lat": 36.5172855,
+      "lon": 127.816810,
+      "info": "충북 보은군 속리산면 법주사로 84",
+      "introduce": "높이는 1,058m이다. 태백산맥에서 남서 방향으로 뻗어 나온 소백산맥 줄기 가운데 위치한다. 최고봉인 천왕봉을 중심으로 비로봉·길상봉·문수봉·보현봉·관음봉·묘봉·수정봉 등 8개의 봉과 문장대·입석대·경업대·배석대·학소대·신선대·봉황대·산호대 등 8개의 대가 있다. 봄에는 산벚꽃, 여름에는 무성한 녹음, 가을에는 아름다운 단풍, 겨울에는 설경으로 계절마다 장관을 이루며 등산로도 잘 닦여 있어 많은 등산객들이 찾는다. 박대천의 지류인 화양천을 따라 좌우로 산재한 경승지를 화양구곡이라 하는데, 한줌의 흙도 보이지 않는 흰 반석에 맑은 물이 흐르고 있으며 울창한 숲과 조화를 이룬 모습이 장관이다. 속리산 주변에 말티재 자연휴양림과 말티재 전망대가 있어 경치를 구경하고 휴식을 취하기 좋다. 또한 속리산 내 법주사가 있어 불상을 구경할 수 있다.",
+      "mbti": "ISFP, ISTJ, INFJ, ESTP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연과 조화를 이루는 것을 중요시합니다. 속리산의 아름다운 경치와 자연환경은 ISFP 유형들에게 평온하고 감동적인 경험을 선사할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 자연 속에서의 조용하고 체계적인 경험을 선호합니다. 속리산에서의 트레킹과 등산은 ISTJ 유형들에게 명확하고 구체적인 목표를 가지며 조직적인 활동을 제공할 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 자연 속에서의 깊은 경험과 내적 성장을 추구합니다. 속리산의 풍경과 트레킹 경로는 INFJ 유형들에게 영감을 주고 내면의 감정과 관계에 대한 탐구를 도울 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 모험과 스릴을 즐깁니다. 속리산의 도전적인 트레일과 활동은 ESTP 유형들에게 새로운 도전과 자극을 제공할 것입니다.",
+      "image": "https://www.knps.or.kr/upload/contest/21/20221108081702996.jpg"
+    },
+    "16": {
+      "Name": "솔향공원",
+      "lat": 36.4992763,
+      "lon": 127.802882,
+      "info": "충북 보은군 속리산면 속리산로 600\ntel: 043-540-3774",
+      "introduce": "속리산국립공원으로 향하는 길목에 자리한 전국 최초의 소나무 테마공원이다. 정이품송, 정부인소나무, 백송, 황금소나무 등 유명한 소나무가 자리한 충청북도 보은에서 소나무의 고장임을 알리기 위해서 조성한 곳이다. 특히 속리산 일대는 소나무가 많이 분포하고 있다. 오래된 소나무가 자리한 곳에 종류별로 소나무를 심고 산책로를 조성하였다. 또한 도깨비공원과 둘리공원과 같이 또 다른 테마가 있는 공간도 함께 마련해놓았다. 공원 내에 소나무의 생태와 의미에 대해 알 수 있는 소나무홍보전시관이 함께 있어서 오랜세월 우리 민족과 함께 해온 소나무에 대한 체험학습을 할 수 있다. 공원 내에는 다양한 종류의 소나무와 함께 천연기념물 정이품송의 씨앗에서 육묘한 후계목이 자리하고 있다. 가까운 곳이 정이품송과 속리산연꽃단지, 법주사 등 아름다운 볼거리가 많이 있다. 솔향공원 내에 레일바이크가 있어 바이크를 타고 공원 내를 이동하며 경치를 구경할 수 있고 짚라인이 있어 액티비티를 즐길 수 있다. 9:00 ~ 18:00 (매주 월요일, 1월1일, 설날, 추석)",
+      "mbti": "INFP, ISFP, ENFP, INFJ\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 자연과 예술적인 경험을 중요시합니다. 솔향공원은 아름다운 자연환경과 문화적인 요소를 조화롭게 결합하고 있으므로, INFP 유형들은 이곳에서 자연의 아름다움을 느끼며 창의적인 영감을 얻을 수 있을 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조화로운 자연 환경과 문화적인 요소에 감성적으로 반응합니다. 솔향공원의 푸른 숲과 전통정원은 ISFP 유형들에게 평온함과 아름다움을 전달하며, 예술적인 활동을 통해 자기 표현의 기회를 제공할 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 창의적인 활동을 즐깁니다. 솔향공원에서는 다양한 문화체험과 예술적인 활동을 즐길 수 있으므로, ENFP 유형들은 새로운 자극과 다양한 영감을 얻을 수 있을 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 자연과 예술에 대한 깊은 이해와 연결을 추구합니다. 솔향공원은 자연의 아름다움과 문화적인 특징을 조화롭게 담고 있으므로, INFJ 유형들은 이곳에서 심미적인 경험과 깊은 내면적 성장을 추구할 수 있을 것입니다.",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/02/2671302_image2_1.jpg"
+    },
+    "17": {
+      "Name": "충북알프스 자연휴양림",
+      "lat": 36.5700767,
+      "lon": 127.789481,
+      "info": "충북 보은군 산외면 장갑리 산15\ntel: 043-540-3712",
+      "introduce": "충북알프스 자연휴양림은 천혜의 자연환경을 자랑하는 충청북도 보은군 산외면에 자리잡고 있으며, 충북 알프스 끝자락 묘봉과 접하고 있다. 총 90.ha의 오염되지 않은 깨끗한 자연환경과 빼어난 주변의 산세는 거친 도심지에서 벗어나 가족과 함께 안락한 휴양을 즐기기를 원하는 사람들에게 꼭 맞는 장소이다. 체험안내- 목공예체험, 숲해설 및 숲힐링, 이용가능시설- [숙박시설]- 숲속의 집 : 숲속의 집, 숲속의 작은집, 알프스빌리지, 테라하우스, 시나래마을- 휴양관 [레포츠 시설] 수영장 [부대시설] 세미나실, 식당, 어린이놀이터 매일 9:00 - 18:00 [숙박시설] 입실 15:00/퇴실 11:00 https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030032",
+      "mbti": "ISTP, ISFP, ESTP, ENFP\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 실용적이고 체계적인 경험을 선호합니다. 알프스 자연 휴양림에서의 등산과 액티비티는 ISTP 유형들에게 도전과 자극을 제공하며 자신의 능력을 발휘할 수 있는 기회를 제공할 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 평온한 자연 환경을 선호합니다. 알프스 자연 휴양림의 숲과 자연 경관은 ISFP 유형들에게 안정감과 아름다움을 전달하며, 자연과의 조화로운 경험을 제공할 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 모험과 스릴을 즐깁니다. 알프스 자연 휴양림의 다양한 활동과 액티비티는 ESTP 유형들에게 새로운 도전과 자극을 제공할 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 자유로운 활동을 선호합니다. 알프스 자연 휴양림의 넓은 자연 공간은 ENFP 유형들에게 창의성을 발휘하고 새로운 영감을 얻을 수 있는 자유로운 환경을 제공할 것입니다.",
+      "image": "https://image.foresttrip.go.kr/frip/b0e56735-f040-4197-9d82-5823b1f24032.JPG"
+
+    },
+    "18": {
+      "Name": "미니어처공원",
+      "lat": 37.0130349,
+      "lon": 128.177725,
+      "info": "충북 보은군 산외면 내북산외로 661 잘산대 대박마을 일원\ntel: 043-543-0013",
+      "introduce": "보은 미니어처공원은 잘산대 대박마을 안에 위치하며 보은군을 대표하는 관광지, 역사유적지 등을 축소모형으로 제작하여 설치한 공원으로 보은군을 한눈에 볼 수 있는 새로운 재미를 선사하는 공원이다. 잘산대 마을은 산대리의 ‘산대’에 잘 살아보자는 뜻으로 ‘잘’ 자를 붙여 잘산대 마을로 정했다. 숲체험, 활쏘기 체험, 짚풀공예체험, 박 공예체험 등 다양한 체험이 진행되기도 한다. 미니어처 공원 주변에 구병산과 삼년산성이 있어 체험 후 산책하기에 좋다. 9:00 ~ 17:00 운영",
+      "mbti": "ISTJ, ESFJ, INFP, ENTP\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 체계적이고 구체적인 경험을 선호합니다. 미니어처 파크의 작은 모형들은 ISTJ 유형들에게 세부 사항과 구조에 대한 관심을 자극하며, 조직적인 방식으로 모형을 즐길 수 있는 기회를 제공할 것입니다.\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사람들과의 상호작용과 감정적인 요소를 중요시합니다. 미니어처 파크는 다양한 모형들을 함께 즐길 수 있는 장소로, ESFJ 유형들에게 친밀감과 공동체적인 경험을 제공할 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 창의적이고 감성적인 경험을 선호합니다. 미니어처 파크의 작은 세계는 INFP 유형들에게 상상력을 자극하고 예술적인 아름다움에 대한 감동을 전달할 것입니다.\nENTP (Extraverted Intuitive Thinking Perceiving): ENTP 유형은 새로운 아이디어와 독특한 경험을 추구합니다. 미니어처 파크의 다양한 모형들은 ENTP 유형들에게 창의적인 영감과 새로운 시각을 제공할 것입니다.",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDA1MjdfMjE5/MDAxNTkwNTYzNTI0ODg5.TjpRsADYbk7Ig8TQjBdGMHZktH3_-Mi8CCyQFACEl8sg.cAPSfHkZ_4d8dglPUJTp72DoNVSZs6Jd7A2wil5dlkYg.JPEG.cbkb21/SE-0746c922-7ab6-4f3a-ba10-d5260bedfb92.jpg?type=w800"
+    },
+    "19": {
+      "Name": "부소담악",
+      "lat": 36.3525492,
+      "lon": 127.563505,
+      "info": "충북 옥천군 군북면 환산로 518",
+      "introduce": "금강의 물길을 막아서 만든 대청호 주변에는 굽이진 길을 따라 작은 마을이 자리하고 있다. 추소리 역시 대청호반의 마을로 환산 아래 자리하고 있다. 추동, 부소무니, 절골 3개의 자연마을로 이루어져 있다. 병풍바위는 그중 부소무니 마을 앞의 대청호에 늘어서 있는 기암괴석이다. 부소무니 마을의 물 위에 떠 있는 산이라 해서 부소담악이라 불리고 있다. 조선의 대유학자였던 우암 송시열 선생이 소금강이라 말할 정도로 아름다운 곳이다. 또한 추소리 주위의 추소팔경의 하나이기도 하다. 한국하천협회가 뽑은 아름다운 하천 100선 중 가장 아름다운 6대한천으로 꼽힐만큼 그 멋진 풍광은 널리 알려져 있다. 부소담악 위에는 최근에 지은 추소리가 있으며 마을에서는 정월대보름 이곳에서 마을의 안녕과 주민건강을 비는 산시제를 올리기도 한다. 부소담악의 멋진 모습이 펼쳐진 추소리로 향하는 길은 드라이브코스로 유명하다.",
+      "mbti": "ISFJ, ISTP, ENFJ, INFP\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 전통과 문화에 깊은 관심을 가지고 있습니다. 부소담악의 전통 문화 유산과 역사적인 장소는 ISFJ 유형들에게 깊은 우애와 감동을 전달할 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 자연과 실용적인 경험을 즐깁니다. 부소담악의 산책로와 자연 경관은 ISTP 유형들에게 평온함과 모험을 제공할 것입니다.\nENFJ (Extraverted Intuitive Feeling Judging): ENFJ 유형은 사람들과의 상호작용과 문화적인 경험을 중요시합니다. 부소담악의 전통 예술과 문화 행사는 ENFJ 유형들에게 사회적인 연결과 창의성을 자극할 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 예술적인 경험과 자연의 아름다움을 중요시합니다. 부소담악의 아름다운 자연 경관과 문화 유산은 INFP 유형들에게 깊은 감동과 영감을 전달할 것입니다.",
+      "image": "https://www.oc.go.kr/site/tour/images/contents/cts3832_img01.jpg"
+    },
+    "20": {
+      "Name": "화인산림욕장",
+      "lat": 36.3824064,
+      "lon": 127.668268,
+      "info": "충북 옥천군 안남면 안남로 151-66\ntel: 0507-1318-0308",
+      "introduce": "화인산림욕장은 개인이 운영하는 왕복 4km 코스의 무료 산림욕 산책로이다. 2013년 8월 개장하였고 메타세콰이어, 니끼다송, 낙엽송, 잣나무, 두충나무, 적송, 참나무, 구상나무, 편백나무 및 삼나무가 심어져 있다. 옥천 IC에서 보은방향 37번 국도를 타고 13 km 주행 후 인포삼거리에서 우회전하여 안남방향으로 진행하면 이정표가 보인다. 대형버스의 통행은 곤란하나 승용차와 승합차의 진입과 통행은 수월하며 산림욕장 입구에 30여대 무료 주차장이 있다. 산림욕장 입구에 자리한 본관 산림욕 전/후 커피를 마시면서 지친 다리를 쉬어가실 수 있습니다. 매표소와 휴게소/매점을 겸하고 있으며 악천후등 비상시 대피소로 이용이 가능합니다. 내부는 고급 원목가구와 편백나무 원목으로 인테리어되어있어 휴식중에도 피톤치드를 만끽하실 수 있습니다. 외부에는 넓게 데크가 깔려있으며 야외테이블이 비치되어있습니다. http://www.fineforest.co.kr/",
+      "mbti": 
+        "ISFP, INFJ, ESFJ, ENFP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 평온한 자연 환경을 선호합니다. 화인 산림의 숲 속에서 산림욕을 즐기는 것은 ISFP 유형들에게 안정과 휴식을 제공할 것입니다.\nINFJ (Introverted Intuitive Feeling Judging): INFJ 유형은 깊은 내면 세계와 자기 개발에 관심이 많습니다. 화인 산림욕은 자연의 치유력과 내면적인 성장을 도모할 수 있는 장소로, INFJ 유형들에게 평화와 깨달음을 제공할 것입니다.\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사람들과의 상호작용과 감정적인 요소를 중요시합니다. 화인 산림욕은 사람들과 함께 휴식을 즐길 수 있는 장소로, ESFJ 유형들에게 공동체적인 경험과 따뜻한 소통을 제공할 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 새로운 경험과 자유로운 활동을 선호합니다. 화인 산림욕은 새로운 자연적인 경험과 감각적인 힐링을 제공하여 ENFP 유형들에게 창의성과 자유로움을 제공할 것입니다.",
+      "image": "https://www.jbnews.com/news/photo/202006/1295188_1090318_011.jpg"
+
+    },
+    "21": {
+      "Name": "옥천전통문화체험관",
+      "lat": 36.3166666,
+      "lon": 127.585674,
+      "info": "충북 옥천군 옥천읍 향수길 100\ntel: 043-730-3420",
+      "introduce": "옥천전통문화체험관은 유구한 역사와 풍요로운 자연 환경 속에서 피어난 옥천의 전통문화를 공유하며 즐기면서 우리나라 전통문화의 맥을 이어 나가기 위해 2020년에 개관하였다. 옥천의 여러 유물들이 전통문화체험관 내에 위치한 향토전시관에 보관 전시 중이다. 전통체험관에서 다도, 민요, 공예 및 전통음식 체험 등과 같이 여러 전통체험 프로그램을 운영중이며 한옥 민박시설도 저렴한 가격에 이용 가능하다. 체험관 내에는 한옥 카페와 한옥 레스토랑도 있으며 체험관 옆 넓은 연못 부지에 여러 종류의 연꽃을 여름 내내와 늦가을까지 즐길 수 있다.  휴관일: 매주 월요일, 1월 1일, 설날, 추석 전시관·체험관 운영: 09:30 ~ (입장마감 : 16:30), 한옥 숙박시설 운영: 15:00 ~ 퇴실일 11:00",
+      "mbti": "ISTJ, ESFJ, INFP, ESTP\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 체계적이고 구체적인 경험을 선호합니다. 옥천 전통문화체험관은 전통 공예나 음악과 같은 활동을 통해 세부 사항에 대한 관심과 체계적인 접근을 제공할 것입니다.\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사람들과의 상호작용과 감정적인 요소를 중요시합니다. 옥천 전통문화체험관은 그룹 활동이 많이 이루어지는 공간으로, ESFJ 유형들에게 사회적인 연결과 공동체적인 경험을 제공할 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 예술적인 경험과 창의적인 활동을 선호합니다. 옥천 전통문화체험관은 전통 문화에 대한 감성적인 체험과 예술적인 활동을 제공하여 INFP 유형들에게 감동과 영감을 전달할 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 새로운 경험과 실용적인 활동을 추구합니다. 옥천 전통문화체험관은 다양한 전통 문화 체험을 제공하므로 ESTP 유형들에게 새로움과 도전을 제공할 것입니다.",
+      "image": "https://www.jbnews.com/news/photo/202103/1333324_1129380_5815.jpg"
+    },
+    "22": {
+      "Name": "금강유원지",
+      "lat": 36.2789416,
+      "lon": 127.671950,
+      "info": "충북 옥천군 동이면 금강로 596\ntel: 043-731-2233",
+      "introduce": "금강유원지는 TV 방송에 여러 번 경관은 물론 맛있는 음식을 갖춘 휴게소가 있는 곳으로 소개된 금강휴게소를 포함한 금강 유역 일대이다. 휴게소는 경부고속도로 금강나들목에 있어 접근성 또한 좋기 때문에 많은 사람들이 찾고 있다. 휴게소에서 동이면과 청성면을 흐르며 굽이치는 금강의 경관을 한눈에 볼 수 있으며 낚시꾼들도 많은 곳이고 수상레저 또한 즐길 수 있다. 휴게소 반대편으로 차로 이동할 수 있는 길이 금강을 가로질러 있으며 그 도로로 이동 시 폐 고속도로로 이어진다. 비가 많이 오면 라바댐을 열어 이 길이 막히게 되고 휴게소에 공급할 전기 생산을 위해 건설한 소수력발전소가 더욱 힘차게 돌아간다. 길을 지나다 보면 눈 높이의 라바댐 위에서 넘실대는 금강을 볼 수 있다. 휴게소 주변으로 금강에서만 맛볼 수 있는 각종 민물 매운탕 맛집을 비롯하여 휴게소 내에도 도리뱅뱅, 다슬기 해장국 등 옥천 지역의 음식을 맛볼 수 있다.",
+      "mbti": "ESTP, ESFP, ENFP, ESTJ\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 새로운 경험과 실용적인 활동을 즐깁니다. 금강랜드의 다양한 놀이 시설과 스릴을 추구하는 활동은 ESTP 유형들에게 즐거움과 도전을 제공할 것입니다.\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즉각적인 경험과 감각적인 즐거움을 중요시합니다. 금강랜드의 다양한 엔터테인먼트와 감각적인 체험은 ESFP 유형들에게 즐거움과 활력을 줄 것입니다.\nENFP (Extraverted Intuitive Feeling Perceiving): ENFP 유형은 창의적인 활동과 사회적 상호작용을 중요시합니다. 금강랜드의 다양한 놀이 시설과 이벤트는 ENFP 유형들에게 새로움과 사회적 연결을 제공할 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 구체적이고 계획적인 활동을 선호합니다. 금강랜드의 다양한 놀이 시설과 테마 파크는 ESTJ 유형들에게 구체적인 계획과 체계적인 접근을 제공할 것입니다.",
+      "image": "https://www.oc.go.kr/cmm/downloadCmmAtchmnfl.do?fileNo=2326&fileId=CXE3Hv1hjXG5q6pgOEfBoQHBvb0FGUSWnABEHGPIDHAJ0PQr77O6fHWCDB_Bpht0hKPi%40_0fuEzdLg1sw1go5ADfIoH%40HEn7l1Zdq8G6mgA%5E!HET!"
+    },
+    "23": {
+      "Name": "화양구곡",
+      "lat": 36.6788966,
+      "lon": 127.802683,
+      "info": "충북 괴산군 청천면 화양리 456\ntel: 043-832-4347, 043-542-5267",
+      "introduce": "화양구곡은 1975년 속리산 국립공원에 포함되었으며, 청주에서 동쪽으로 32㎞ 지점인 청천면 화양리에 위치한 계곡이다. 넓게 펼쳐진 반석 위로 맑은 물이 흐르고, 주변의 울창한 숲이 장관을 이룬다. 조선 중기에 우암 송시열 선생이 산수를 사랑하여 이곳에 은거했다고 전해진다. 화양9곡은 경천벽, 운영담, 읍궁암, 금사담, 첨성대, 능운대, 와룡암, 학소대, 파천 아홉경관으로 이뤄져 있다. http://www.knps.or.kr/front/portal/visit/visitCourseMain.do?parkId=120500&menuNo=7020095",
+      "mbti": "ISFP, INFP, ISTP, ISTJ\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연의 아름다움과 조용한 환경을 즐깁니다. 화양구곡의 자연 경관과 평화로운 분위기는 ISFP 유형들에게 조용한 휴식과 자기 발견의 시간을 제공할 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 아름다움과 깊은 감정을 중요시합니다. 화양구곡의 아름다운 자연 경관과 고요한 분위기는 INFP 유형들에게 영감과 명상적인 시간을 제공할 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 자연과 모험을 즐깁니다. 화양구곡의 등산로와 풍경은 ISTP 유형들에게 도전과 자유로운 활동을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 조직적인 환경을 선호합니다. 화양구곡의 조용한 자연 경관과 관리된 산책로는 ISTJ 유형들에게 조용한 휴식과 체계적인 탐험을 제공할 것입니다.",
+      "image": "https://www.goesan.go.kr/DATA/tour/info/588/4EF7C087-ACCD-CA96-468B-E825A7E299A1.jpg"
+    },
+    "24": {
+      "Name": "산막이옛길",
+      "lat": 36.7601353,
+      "lon": 127.838580,
+      "info": "충북 괴산군 칠성면 사은리 546-1\ntel: 043-832-3527 (사무실)",
+      "introduce": "칠성면 외사리 사오랑 마을에서 산골 마을인 산막이 마을까지 연결됐던 총 길이 10리의 옛길로서, 옛길을 그대로 복원한 산책로이다. 괴산호를 끼고 있는 옛길 구간 대부분을 친환경 공법으로 조성하여 환경 훼손을 최소화함으로써 살아있는 자연미를 그대로 보여주고 있다. 산막이 옛길을 따라 펼쳐지는 산과 물, 숲이 어우러지는 아름다움은 괴산의 자랑이다. 괴산호와 어우러져 한국의 자연미를 보여주고 있다. 2015년에 이어 2017년에도 한국관광 100선에 선정되면서 대한민국 대표 관광명소로 자리하고 있다. https://www.goesan.go.kr/tour/contents.do?key=863",
+      "mbti": "ISFP, INFP, ISTJ, INTJ\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연의 아름다움과 조용한 분위기를 즐깁니다. 산막이옷길의 아름다운 자연 경관과 조용한 환경은 ISFP 유형들에게 평화로운 휴식과 자기 발견의 시간을 제공할 것입니다.\nINFP (Introverted Intuitive Feeling Perceiving): INFP 유형은 자연의 아름다움과 깊은 감정을 중요시합니다. 산막이옷길의 자연 경관과 역사적인 유산은 INFP 유형들에게 영감과 명상적인 시간을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 조직적인 환경을 선호합니다. 산막이옷길의 잘 정비된 산책로와 힐링 공간은 ISTJ 유형들에게 체계적인 탐험과 안정을 제공할 것입니다.\nINTJ (Introverted Intuitive Thinking Judging): INTJ 유형은 자연과 역사에 대한 지적 탐구를 즐깁니다. 산막이옷길의 역사적인 유적지와 문화 유산은 INTJ 유형들에게 지적인 즐거움과 탐구의 영역을 제공할 것입니다.",
+      "image": "https://img.hani.co.kr/imgdb/resize/2018/1116/00501343_20181116.JPG"
+    },
+    "25": {
+      "Name": "문광저수지",
+      "lat": 36.7672077,
+      "lon": 127.748060,
+      "info": "충청북도 괴산군 문광면 양곡리 16\ntel: 043-830-2522",
+      "introduce": "2km의 은행나무길이 둘러싸고 있는 저수지로 전형적인 작은 농촌마을인 양곡리에 위치하여 농업용수를 공급할 뿐만 아니라 지역주민과 방문객의 산책과 명상을 함께 할 수 있는 휴식공간을 제공하고 있다. 1978년 5월에 준공하였고 준계곡형의 저수지로 주변에 숲이 우거져 있고 고목이 많아 전경이 아름답다. 저수지 입구에는 가로수길이 설치되어 있고 가을이면 노랗게 물든 은행나무를 감상할 수 있으며, 낚시를 즐기러 나온 가족단위 여행객을 많이 볼 수 있다. https://www.goesan.go.kr/tour/",
+      "mbti": 
+        "ISFP, ISTJ\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연의 아름다움과 조용한 분위기를 즐깁니다. 문광저수지의 푸른 자연 풍경과 평화로운 환경은 ISFP 유형들에게 휴식과 자연과의 조화를 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 조용하고 안정적인 환경을 선호합니다. 문광저수지의 조용한 산책로와 자연 경관은 ISTJ 유형들에게 안정과 휴식을 제공할 것입니다.",
+      "image": "https://www.cbinews.co.kr/news/photo/202108/202084_82165_3536.jpg"
+
+    },
+    "26": {
+      "Name": "조령산 자연휴양림",
+      "lat": 36.8150163,
+      "lon": 128.051414,
+      "info": "충북 괴산군 연풍면 새재로 1795 \ntel: 043-833-7994",
+      "introduce": "1일 최대 수용인원은 1,600명, 최적 인원은 800명이다. 충청북도와 경상북도의 경계 해발 1,025m의 조령산 기슭에 있는 휴양림으로, 군락을 이룬 노송과 참나무 외에 다양한 희귀수목 숲이 자연 그대로 보존되어 있다. 휴양림에는 숲속의 집, 임산물판매장, 삼림욕장, 정자, 야외무대, 야외교실 등의 시설이 있고 눈썰매와 물썰매를 함께 즐길 수 있는 사계절썰매장이 있다. 주변에 수안보온천과 문경새재도립공원, 임진왜란 때 왜적을 막기 위해 쌓은 조령삼관문(사적 147호), 마역봉, 소옥폭포, 미륵사지 등의 관광지가 있다. 입실 14:00~22:00 / 퇴실 11:00까지 https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030008",
+      "mbti": "ISFP, ISTP, INFJ, ENFP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 조용하고 평화로운 자연 환경을 즐깁니다. 조령산자연휴양림의 숲 속 산책로와 아름다운 경관은 ISFP 유형들에게 조용한 휴식과 자연과의 조화를 제공할 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 활동적인 자연 활동을 선호합니다. 조령산자연휴양림의 하이킹 코스와 다양한 액티비티는 ISTP 유형들에게 자극과 도전을 제공할 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 자연의 심미성과 깊은 감정을 중요시합니다. 조령산자연휴양림의 아름다운 경관과 조용한 분위기는 INFJ 유형들에게 영감과 내적인 안정을 제공할 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 자연과 자유로운 분위기를 좋아합니다. 조령산자연휴양림에서의 산책과 자연 감상은 ENFP 유형들에게 창의성을 자극하고 자유로움을 느끼게 해줄 것입니다.",      
+      "image": "https://image.foresttrip.go.kr/frip/ae5fa283-ba5d-43d5-9210-78bff7759fbf.JPG"
+    },
+    "27": {
+      "Name": "음성 팩토리투어센터",
+      "lat": 36.9708983,
+      "lon": 127.464591,
+      "info": "충북 음성군 대소면 대풍산단로 78 \ntel: 043-530-1004, 043-530-1005, 043-530-1006",
+      "introduce": ". 음성군은 지역 내 ‘산업단지’와 ‘관광자원’을 결합한 ‘흥미진진한 팩토리 투어’ 사업으로 작년에 문화체육관광부의 산업관광 육성 공모 사업에 선정된 바 있다. 음성군은 산업단지 내 9개 기업과 협약을 맺고 산업관광 사업을 추진하고 있으며 그 시작으로 한독과 ‘흥미진진한 팩토리 투어센터’를 건립했다. 체험학습공간에서는 한독의약박물관과 연계한 다양한 체험 활동이 무료로 진행되고 있어 참여해볼 수 있으며, 쉼터에서는 마치 숲 속에 온 듯한 공간으로 어디서 사진을 찍어도 멋지게 나온다. 또, 소정의 음성 산업관광 발전 기금을 내면 음료를 제공하고 있어 마치 온실 카페에 온 듯한 기분을 낼 수 있다. https://www.eumseong.go.kr/factory/index.do",
+      "mbti": "ISTJ, ESTJ, ENTJ\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 체계적이고 조직적인 환경에서 편안함을 느낍니다. 공장 체험관에서는 제조 과정과 기술적인 세부 사항을 관찰하고 이해하는 것이 중요합니다. ISTJ 유형들은 체계적인 접근과 신중한 탐구를 통해 이러한 정보를 소화하고 즐길 수 있을 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 실질적이고 현실적인 경험을 선호합니다. 공장 체험관에서는 실제 공장 운영을 관찰하고 참여할 수 있는 기회가 주어집니다. ESTJ 유형들은 실용적인 관심과 실제 경험을 통해 새로운 지식을 얻고 적용할 수 있을 것입니다.\nENTJ (Extraverted Intuition Thinking Judging): ENTJ 유형은 미래 지향적이며 전략적인 사고를 가지고 있습니다. 공장 체험관에서는 제조 업무와 공정을 전략적으로 이해하고 개선하는 것이 중요합니다. ENTJ 유형들은 이러한 전략적 사고와 비즈니스 지식을 활용하여 제조 과정에 대한 흥미를 느낄 수 있을 것입니다.",
+      "image": "https://www.eumseong.go.kr/site/factory/images/contents/cts7131_img1.jpg"
+
+    },
+    "28": {
+      "Name": "마애여래입상",
+      "lat": 36.9555815,
+      "lon": 127.730033,
+      "info": "충북 음성군 소이면 소이로61번길 164\ntel: 043-872-0522",
+      "introduce": "음성 미타사에 있는 도유형 문화재 제 130호로 자연 암벽을 이용하여 새긴 마애여래입상이다. 불신을 도드라지게 새겼는데, 머리와 어깨 부분을 깊이 새겨 상반신의 입체감을 부각시켰다. 전체 높이 4.05m이며 민머리 위에 있는 상투 모양의 높은 머리묶음, 부피있는 네모난 얼굴, 눈·코·입의 처리 등에서 형식화가 뚜렷이 진행되고 있다. 옷은 왼쪽 어깨에만 걸치고 주름은 사선으로 흐르고 있다. 오른손은 밑으로 내렸고, 왼손은 들어 가슴 앞에 댄 모습으로 당시 불상 양식을 잘 표현하고 있다. 평판적인 신체, 직선적인 윤곽, 여기에 얇게 빚은 듯한 계단식 옷주름, 옷자락 등에서 통일신라 후기 거구의 불상양식을 계승한 고려 중기의 작품으로 추정된다. http://www.mitasa.or.kr/",
+      "mbti": "ISFP, INFJ, ISTP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 예술적이고 자연적인 아름다움을 감상하는 데 관심이 많습니다. 마애여래석은 고요하고 자연스러운 환경 속에서 예술적인 조각물을 감상할 수 있는 장소입니다. ISFP 유형들은 이러한 조용하고 아름다운 공간에서 영감을 받고 조용히 즐길 수 있을 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 깊은 내면 세계와 심리적인 의미를 탐구하는 데 관심이 있습니다. 바위 조각 여래석은 종교적인 의미와 정서적인 감정을 담은 조각물로, INFJ 유형들은 이러한 심리적인 측면을 탐구하고 깊은 고요함을 느낄 수 있을 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 독립적이고 현실적인 경험을 추구합니다. 바위 조각 여래석은 독특한 조각 기술과 장소의 역사적인 측면을 보여주며, ISTP 유형들은 이러한 흥미로운 요소들을 관찰하고 탐구할 수 있을 것입니다.",
+      
+      "image": "https://mblogthumb-phinf.pstatic.net/20120406_244/jvj24601_1333678128945oK15b_JPEG/120319.%C3%E6%C3%BB.03.%B9%CC%C5%B8%BB%E7_%2834%29.jpg?type=w2"
+    },
+    "29": {
+      "Name": "큰바위얼굴조각공원",
+      "lat": 37.0325771,
+      "lon": 127.575737,
+      "info": "충북 음성군 생극면 관성리 9-1\ntel: 043-882-4111",
+      "introduce": "음성에 위치한 큰바위 얼굴 조각공원은 세계 180여 개국에서 일어난 중요한 대종교가, 정치지도자, 발명·발명가, 작가, 철학자, 과학자, 탐험가 등 다양한 업적을 남긴 인물들의 모습을 조각으로 새겨 전시한 곳이다. 설립 취지는 세계역사를 학교 교실이나 글로만 공부하는 것을 벗어나 넓은 마음으로 직접 접하자는 것에 있다. 온 가족과 연인, 스승과 제자가 함께 산책하며 인물상을 통해 생동감 있고 살아숨쉬는 세계역사를 직접 접함으로써 과거 역사를 생생한 오늘의 일로 느끼고 깊이 있게 이해하도록 하자는 취지로 만들어졌다. 평일/휴일 8:00 ~19:00",
+      "mbti": "ENFP, ESTJ, ISFJ, INTP\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의적이고 새로운 경험을 추구합니다. 큰 암반 얼굴 조각공원은 독특하고 창의적인 조각물로 이루어져 있어 ENFP 유형들이 호기심을 자극받고 즐거움을 느낄 수 있을 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 현실적이고 실용적인 경험을 선호합니다. 큰 암반 얼굴 조각공원은 자연과 예술을 결합한 장소로, ESTJ 유형들은 이러한 공간에서 실제로 조각물을 관찰하고 그 기술적인 세부 사항을 살펴보며 흥미를 느낄 수 있을 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 과거의 기억과 감정에 대한 연결을 중요시합니다. 큰 암반 얼굴 조각공원은 역사와 문화적인 요소를 담은 조각물로 이루어져 있어 ISFJ 유형들이 과거의 기억과 감정과 연결되어 공감하고 감동을 받을 수 있을 것입니다.\nINTP (Introverted Intuition Thinking Perceiving): INTP 유형은 이해하기 위해 분석하고 탐구하는 것을 선호합니다. 큰 암반 얼굴 조각공원은 복잡하고 심도 있는 조각물로 이루어져 있어 INTP 유형들이 그 구조와 의미를 분석하고 탐구하는 데 흥미를 느낄 수 있을 것입니다.",
+      "image": "https://img.khan.co.kr/news/2005/08/31/5i0134b.jpg"
+
+    },
+    "30": {
+      "Name": "철 박물관",
+      "lat": 37.0908199,
+      "lon": 127.649421,
+      "info": "충북 음성군 감곡면 영산로 360\ntel: 043-883-2321",
+      "introduce": "철의 역사와 문화를 모아놓은 철 전문 박물관이다. 동국제강 창업자 상속인들이 출연한 세연문화재단에서 개관하였고 2004년 세연철박물관에서 철박물관으로 명칭을 변경했다. 1,2층으로 이루어진 실내 전시장에는 인간과 철의 만남에서부터 현대의 철 생산품에 이르기까지 철의 역사를 접할 수 있는 내용이 전시되어 있다. 철제 민속품, 철강 관련제품, 철광석, 운석 등 1000여점의 전시품이 있다. 야외전시장에는 현대의 제강공정이 전시되어 있다. 전시공간 조성외에도 철관련 자료수집과 학술연구 활동, 교육활동 등 다양한 활동을 전개하고 있으며 지역의 복합문화공간으로 자리잡고 있는 곳이다. 관람료 무료 실내 전시: 토요일 9:00 ~ 17:00 실외 전시: 화 ~ 토요일 9:00 ~ 17:00 1,2월 휴관, http://www.ironmuseum.or.kr/main.php",
+      "mbti": "ISTP, ENTP, INTJ, ESTJ\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 실제적이고 현실적인 경험을 선호합니다. 철 박물관은 철에 관한 다양한 전시물과 역사적인 내용을 다루고 있어 ISTP 유형들이 이러한 실용적인 정보를 탐구하고 관찰하는 데 흥미를 느낄 수 있을 것입니다.\nENTP (Extraverted Intuition Thinking Perceiving): ENTP 유형은 새로운 아이디어와 도전적인 환경을 선호합니다. 철 박물관은 창의적인 철 공예품과 혁신적인 기술을 전시하고 있어 ENTP 유형들이 이러한 독특한 아이디어와 혁신에 흥미를 느낄 수 있을 것입니다.\nINTJ (Introverted Intuition Thinking Judging): INTJ 유형은 심층적인 분석과 계획을 선호합니다. 철 박물관은 철과 관련된 역사적인 내용과 기술적인 세부 사항을 다루고 있어 INTJ 유형들이 이러한 복잡성을 이해하고 분석하는 데 흥미를 느낄 수 있을 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 실용적이고 현실적인 경험을 중요시합니다. 철 박물관은 철과 관련된 실제적인 전시물과 역사적인 내용을 다루고 있어 ESTJ 유형들이 이러한 실용성과 현실성을 중요시하며 즐길 수 있을 것입니다.",
+      
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxNjExMDNfMzUg/MDAxNDc4MTE2NzY3MTAx.um2OQBt6jcumIP-mG3wRLoDdS7wo_6gXTSpBLiFfBPYg.W4YMuFGIEC3jxrOQ5GJtKQRdPqzRWopfyn0EJl4ObV4g.JPEG.chfusl417/20161008_160930.jpg?type=w800"
+
+    },
+    "31": {
+      "Name": "만천하스카이워크",
+      "lat": 36.9776054,
+      "lon": 128.337077,
+      "info": "충북 단양군 적성면 애곡리 94\ntel: 043-421-0014, 043-421-0015",
+      "introduce": "만천하스카이워크는 수양개 선사유적지로 알려진 적성면 애곡리 일대에 자리잡고 있으며 만학천봉전망대와 짚와이어 등 레포츠 시설을 갖추고 있다. 만학천봉전망대는 원형으로 만들어져 소백산과 금수산, 월악산 등 백두대간 명산들을 동서남북 사면으로 감상할 수 있고, 남한강 수면 위 80m 높이에 전망대 맞은편 남한강을 향해 삼지창 모양으로 삐져나와 있는 하늘길에 올라서면 남한강의 절경이 한눈에 들어오며 구름 위를 걷는 듯한 아찔함을 경험할 수 있다. 전망대 밑에는 줄을 타고 산을 미끄러지듯 활강하는 ‘짚와이어’시설이 있다. 아름다운 풍광으로 이름난 금수산 지맥과 남한강 호반을 배경으로 만학천봉 출발지에서 활강하듯 980m 구간을 내려가도록 코스가 꾸며져 있으며, 스피드와 스릴 뿐만 아니라 사계절 서로 다른 천혜의 비경을 즐길 수 있다.* 이용료 - 전망대 입장료 2,000원(성인기준) - 짚와이어 이용 30,000원 하절기 9:00-18:00(17:00까지 현장 발권 가능) 동절기 10:00-17:00 (16:00까지 현장 발권 가능) ※ 매주 월요일 휴장, www.dytc.or.kr/mancheonha/89",
+      "mbti": "ENFP, ISTJ, ESFP, INFJ\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 새로운 경험과 감성적인 자극을 선호합니다. 만천하 스카이워크는 아름다운 자연경관과 높은 위치에서의 스릴을 제공하여 ENFP 유형들이 새로운 경험과 자연과의 교감을 즐길 수 있을 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 체계적인 환경을 선호합니다. 만천하 스카이워크는 안전하게 구축된 구조물이며, 아름다운 자연경관을 제공하여 ISTJ 유형들이 안정감을 느끼며 체계적인 관찰과 탐구를 즐길 수 있을 것입니다.\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 현실적인 자극과 즐거운 경험을 선호합니다. 만천하 스카이워크는 높은 위치에서의 경험과 자연환경의 아름다움을 제공하여 ESFP 유형들이 즉각적인 즐거움과 자연과의 교감을 경험할 수 있을 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 심층적인 이해와 내적 성장을 선호합니다. 만천하 스카이워크는 높은 위치에서의 조용한 시간과 아름다운 풍경을 제공하여 INFJ 유형들이 자아 탐색과 내적 성장을 할 수 있는 평온한 환경을 제공할 것입니다.",
+      "image": "https://www.dytc.or.kr/File/Download/d4486a602f48c3e67d7e3617e51d00dd"
+    },
+    "32": {
+      "Name": "고수동굴",
+      "lat": 36.9884941,
+      "lon": 128.381577,
+      "info": "충북 단양군 단양읍 고수동굴길 8\ntel: 043-422-3072",
+      "introduce": "‘고수동굴(古藪洞窟)’은 ‘단양군 고수리(古藪里)’에 위치한 천연동굴입니다. 산 정상에 키 큰 수풀이 많아 ‘높을 고, 수풀 수-고수(高藪)’로 불리다가 지금은 ‘옛 고(古)’를 사용해 ‘고수(古藪)’가 됐습니다. '온가족이 함께 관광·자연학습·탐험을 즐기다' 마리아상, 만물상, 천당 연못, 천지창조, 천년의 사랑, 사자바위, 인어바위, 에어리언 바위- 이름만으로도 호기심을 불러일으키는 독특한 형상의 동굴생성물들이 관람구간 1.3km 곳곳에 펼쳐져 있어 감탄을 자아냅니다. 동굴 전시관과 체험관, 영상관이 함께 있어 자녀들의 자연관찰학습장으로도 인기가 높습니다. 동굴 속 온도는 일 년 내내 섭씨 14~15도입니다. 여름에는 에어컨보다 시원하고, 겨울에는 봄날처럼 따뜻합니다. 04월~10월 : 입장시간 09:00~17:30(18:30까지 퇴장) 11월~03월 : 입장시간 09:00~17:00(18:00까지 퇴장) ※ 연중무휴 (휴관시 홈페이지 공지) http://www.gosucave.co.kr/",
+      "mbti": "ISTP, ENFJ, INTP, ESFJ\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 탐험적인 경험과 자연환경을 선호합니다. 고수동굴은 자연이 형성한 아름다운 동굴 구조와 다양한 동굴 속 풍경을 제공하여 ISTP 유형들이 탐험과 체험을 통해 자연의 신비를 발견하고 즐길 수 있을 것입니다.\nENFJ (Extraverted Intuition Feeling Judging): ENFJ 유형은 새로운 경험과 사회적 상호작용을 선호합니다. 고수동굴은 매력적인 동굴 구조와 함께 다른 사람들과 함께하는 탐험을 제공하여 ENFJ 유형들이 새로운 사람들과의 연결과 자연의 아름다움을 함께 경험할 수 있을 것입니다.\nINTP (Introverted Intuition Thinking Perceiving): INTP 유형은 지적 탐구와 독립적인 사색을 선호합니다. 고수동굴은 복잡한 지형과 고유한 지질 현상을 제공하여 INTP 유형들이 동굴의 현상과 원리를 분석하고 지적 탐구를 즐길 수 있을 것입니다.\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사회적인 활동과 감성적인 경험을 선호합니다. 고수동굴은 동굴 탐험과 함께 자연의 아름다움을 경험할 수 있는 공간을 제공하여 ESFJ 유형들이 사람들과의 연결과 감성적인 경험을 함께 즐길 수 있을 것입니다.",
+      "image": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=72b171ab-7918-4ba5-a5a5-f9fe693b69bb"
+
+    },
+    "33": {
+      "Name": "수양개빛터널",
+      "lat": 36.9604662,
+      "lon": 128.332444,
+      "info": "충북 단양군 적성면 수양개유적로 390 (애곡리, 수양개선사유물전시관)\ntel: 043-421-5454 , 043-421-5453",
+      "introduce": "일제강점기에 건설된 수양개 터널은 적성면 애곡리 산 24-2에 길이 200m, 폭 5m의 지하시설물로 일제 강점기 때 조성된 이후 수십년 동안 방치되었던 터널입니다. 이 터널을 최신영상, 음향시설, LED 미디어 파사드 등을 접목시킨 복합멀티미디어 공간으로 재탄생 하였습니다. 수양개 빛터널은 국내 최초로 터널 전체를 빛의 테마로 조성한 복합 멀티미디어 공간입니다. 교육과 문화·예술, 자연 친화 등 다양한 테마로 구성되어 있으며, 빛의 무지개와 몽환적인 무한대의 빛터널 등 빛과 영상이 어우러진 다채로운 볼거리를 제공합니다. 동절기 일요일·평일 14:00-22:00(21:00까지 입장 가능) 동절기 토요일·공휴일|하절기 평일·주말14:00-23:00(22:00까지 입장 가능) ※ 매주 월요일 휴관, http://www.ledtunnel.co.kr",
+      "mbti": "ENFP, ISFJ, ESTP, INFJ\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의성과 감성적인 경험을 선호합니다. 수양개 등대 터널은 멋진 조명과 아름다운 터널 경로를 통해 ENFP 유형들이 창의적인 영감을 느끼고 아름다운 순간을 즐길 수 있는 환경을 제공할 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 안정과 감정적인 연결을 선호합니다. 수양개 등대 터널은 아늑하고 분위기 있는 조명으로 ISFJ 유형들이 편안하고 따뜻한 분위기에서 감정적인 휴식을 취할 수 있는 환경을 제공할 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 새로운 경험과 자극을 선호합니다. 수양개 등대 터널은 다양한 조명과 터널 내부의 흥미로운 시각적 효과로 ESTP 유형들이 즉각적인 자극과 도전적인 경험을 즐길 수 있는 환경을 제공할 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 심오한 이해와 내적인 깨달음을 선호합니다. 수양개 등대 터널은 독특한 조명과 심벌적인 의미를 갖고 있어 INFJ 유형들이 내면적인 탐구와 깊은 이해를 할 수 있는 환경을 제공할 것입니다.",
+      "image": "https://www.ktsketch.co.kr/news/photo/202007/6033_27473_5529.jpg"
+    },
+    "34": {
+      "Name": "온달관광지",
+      "lat": 37.0628902,
+      "lon": 128.491720,
+      "info": "충북 단양군 영춘면 온달로 23\ntel: 043-423-8820",
+      "introduce": "온달관광지는 소백산국립공원 및 구인사 서쪽에 위치하며, 단양 시내에서 영춘, 영월방면으로 연결된 595호 지방도를 30분정도 달리면 고구려의 명장 온달장군과 평강공주의 전설이 담겨져 있는 온달관광지가 보인다. 97,011m (29,345평)의 부지에 조성중인 온달관광지는 민속놀이장, 스포츠 타운, 여관, 향토음식점, 토산품판매점, 피크닉장, 온달촌, 온달관, 전설의 집, 전통혼례장 등 관광 편의 및 볼거리들이 있으며, 관광지 내에는 4억5천만년의 신비스러움을 간직한 온달동굴(760m)과 온달장군과 평강공주의 사랑 이야기가 연연히 전해오는 온달산성이 있다. 매년 10월이면 단풍과 국향처럼 고운 온달문화축제가 풍성하게 열린다. 인접한 관광지로는 단양 제2팔경의 북벽과 천태종 총본산인 구인사 그리고 소백산 깊은 계곡에서 흘러나오는 청정 계곡인 남천계곡이 위치하고 있다. [입장료] 성인 : 5,000원 | 청소년 : 3,500원 | 어린이 : 2,500원 | 65세 이상 : 1,500원 하절기 9:00-18:00(17:00까지 입장 가능) 동절기 9:00-17:30(16:30까지 입장 가능 https://www.danyang.go.kr/html/vr_ondal/ondal_set.html",
+      "mbti": "ESFJ, ISTP, ENFJ, INFP\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사람과의 연결과 경험을 중요시합니다. 온달 관광지는 역사적인 가치와 아름다운 경치를 갖고 있어 ESFJ 유형들이 사람들과의 소통과 즐거운 경험을 함께할 수 있는 환경을 제공할 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 자연과 체험을 선호합니다. 온달 관광지는 자연환경과 특색 있는 문화를 경험할 수 있는 장소로 ISTP 유형들이 자유로운 탐험과 체험을 즐길 수 있는 환경을 제공할 것입니다.\nENFJ (Extraverted Intuition Feeling Judging): ENFJ 유형은 타인과의 연결과 감성적인 경험을 선호합니다. 온달 관광지는 역사적인 이야기와 아름다운 풍경을 통해 ENFJ 유형들이 타인과의 공감과 감성적인 여행을 함께할 수 있는 환경을 제공할 것입니다.\nINFP (Introverted Intuition Feeling Perceiving): INFP 유형은 내면적인 탐색과 감성적인 경험을 선호합니다. 온달 관광지는 역사적인 가치와 정서적인 분위기를 갖고 있어 INFP 유형들이 내면적인 탐구와 감성적인 휴식을 취할 수 있는 환경을 제공할 것입니다.",
+      "image": "https://www.jbnews.com/news/photo/201909/1259721_1055323_502.jpg"
+    },
+    "35": {
+      "Name": "다누리센터",
+      "lat": 36.9855472,
+      "lon": 128.370742,
+      "info": "충북 단양군 단양읍 수변로 111\ntel: 043-423-4235",
+      "introduce": "다누리센터는 2012년 개관한 복합 문화공간입니다. 남한강의 고수대교를 끼고 위치한 이곳에는 민물 아쿠아리움과 국내 최고 낚시박물관을 비롯하여 도서관, 파충류전시관, 4D 체험관 등이 있습니다. 특히 올해 문을 연 별별스토리관은 별과 우주를 테마로 한 교육 시설로 감성존, 체험존, 활동존에서 가족들과 함께 놀면서 자연스럽게 우주 지식을 쌓을 수 있습니다. 성인 : 5,000원 | 청소년 : 3,500원 | 어린이 : 2,500원 | 65세 이상 : 1,500원 09:00~18:00 (매주 월요일 휴관) https://www.danyang.go.kr/danuri/1384",
+      "mbti": "ESFP, ISTJ, ENFP, INTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즉각적인 경험과 사회적 상호작용을 선호합니다. 다누리센터는 문화적인 체험과 다양한 활동을 통해 ESFP 유형들이 자유롭고 즐거운 시간을 보낼 수 있는 환경을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 구조화된 환경을 선호합니다. 다누리센터는 교육적인 요소와 체계적인 프로그램을 통해 ISTJ 유형들이 지식을 얻고 안정감을 느낄 수 있는 환경을 제공할 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의적인 자극과 감성적인 경험을 선호합니다. 다누리센터는 예술과 문화를 중심으로 다양한 활동을 제공하여 ENFP 유형들이 자유로운 상상력을 발휘하고 감성적인 경험을 즐길 수 있는 환경을 제공할 것입니다.\nINTJ (Introverted Intuition Thinking Judging): INTJ 유형은 지적 탐구와 분석을 선호합니다. 다누리센터는 지식과 인사이트를 제공하는 프로그램과 자료를 통해 INTJ 유형들이 자신의 지적 욕구를 충족시킬 수 있는 환경을 제공할 것입니다.",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzEyMjhfODUg/MDAxNTE0NDU1MjQwNDIw.Lpk-Ty1ghdTirXqBguOU11_9bBc3CEer9KuktN2dE3Ig.mcVQThkn44wiHJfKHZHcIA0tqO6G8brsohvP4I0j7YIg.JPEG.jcjkks/20171113-DSC05750.jpg?type=w800"
+    },
+    "36": {
+      "Name": "영동포도축제",
+      "lat": 36.1641269,
+      "lon": 127.782753,
+      "info": "충북 영동군 영동읍 영동황간로 122\ntel: 043-745-8918",
+      "introduce": "매년 8월 말이 되면 포도의 고장인 영동에서 열리는 대표적인 축제입니다. 전국 최대의 재배면적(2,209ha)과 품질 좋은 포도를 전국에 알리기 위해 마련한 축제로 단순히 포도를 먹기만 하는 축제가 아니라 포도를 직접 따는 체험부터, 포도를 이용해서 와인, 빙수,초콜릿 등 여러 가지 제품을 만들고, 오감을 만족시킬 수 있는 포도밟기 등 수십 가지의 다양한 체험들이 함께하는 즐거운 축제의 장입니다. 영동포도축제 주요행사 포도따기, 포도밟기, 포도투호, 물놀이 등 다양한 체험 와인 만들기, 포도빙수, 초콜릿 만들기, 젤리 만들기 등 참여형 체험 개막 축하공연 및 토요문화공연, 불꽃놀이 등 포도, 와인, 영동 농특산물 시식, 시음, 판매행사 과일 종합 전시관 및 과일 사진 전시회 등 전국 영동포도마라톤 대회 등 http://ydft.kr/sub2-1-1.php ",
+      "mbti": "ESFP, ISTJ, ENFP, INTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 즉각적인 경험과 사회적 상호작용을 선호합니다. 영동 포도축제는 다양한 포도 체험과 포도 와인 시음, 공연 등 다양한 이벤트를 통해 ESFP 유형들이 즐거운 시간을 보낼 수 있는 환경을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 안정적이고 구조화된 환경을 선호합니다. 영동 포도축제는 포도 농사의 전반적인 과정을 체험하고 포도에 대한 지식을 얻을 수 있는 프로그램을 제공하여 ISTJ 유형들이 안정감을 느끼며 포도에 대한 깊은 이해를 할 수 있는 환경을 제공할 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의적인 자극과 감성적인 경험을 선호합니다. 영동 포도축제는 예술적인 공연, 포도주 시음 이벤트, 다양한 문화 행사 등을 통해 ENFP 유형들이 자유로운 상상력을 발휘하고 감성적인 경험을 즐길 수 있는 환경을 제공할 것입니다.\nINTJ (Introverted Intuition Thinking Judging): INTJ 유형은 지적 탐구와 분석을 선호합니다. 영동 포도축제는 포도 재배 기술과 포도산업의 전망에 대한 세미나와 전시를 제공하여 INTJ 유형들이 지식을 얻고 분석적인 이해를 할 수 있는 환경을 제공할 것입니다.",
+      "image": "https://cdn.cbnews.kr/news/photo/202304/218431_70127_748.jpg"
+
+    },
+    "37": {
+      "Name": "송호관광지",
+      "lat": 36.1300096,
+      "lon": 127.675736,
+      "info": "충북 영동군 양산면 송호로 105\ntel: 043-740-3228",
+      "introduce": "신라가요 양산가(陽山歌)의 고장으로 금강 상류 기슭에 있는 명승지이다. 금강 상류에 자리잡고 있어 강물이 깨끗하고 100년 이상된 소나무숲이 어우러져 있어서 삼림욕을 즐길 수 있다. 캠핑장이 있어서 피서철에 가족단위 관광지나 청소년 심신수련장으로 이용되고 있다. 금강 변의 넓은 공간에 분수대, 장미꽃터널, 살구꽃동산, 조각공원을 비롯하여 주차장, 취사장, 체력단련장, 어린이놀이터, 산책로, 방갈로 등의 시설을 갖추었다. 양산면을 지나는 금강의 지류는 그 경치가 빼어나 예부터 양강이라 불리기도 했다. 양산팔경은 양강 주위의 빼어난 8곳의 경관을 얘기한다. 주위에 선녀가 내려와 목욕을 했다는 강선대와 하늘로 오르려던 용이 선녀가 목욕하는 것에 반하여 오르지 못하고 떨어졌다는 용암, 박응종이 말년에 후학을 가르쳤다는 여의정을 비롯하여 영국사, 비봉산, 봉황대, 함벽정, 자풍당을 얘기한다. https://yd21.go.kr/portal/html/sub01/0101.html",
+      "mbti": "ESFJ, ENFJ\nESFJ (Extraverted Sensing Feeling Judging): ESFJ 유형은 사회적 상호작용과 다른 사람들과의 관계를 중요시합니다. 송호 관광지는 아름다운 자연 경관과 함께 다양한 활동을 즐길 수 있는 공간으로, ESFJ 유형들이 가족이나 친구와 함께 즐거운 시간을 보낼 수 있는 환경을 제공할 것입니다.\nENFJ (Extraverted Intuition Feeling Judging): ENFJ 유형은 사회적인 관계와 타인의 복지에 관심이 많습니다. 송호 관광지는 자연 치유와 휴식을 제공하며, ENFJ 유형들이 타인과 함께 공유하고 휴식을 취할 수 있는 환경을 제공할 것입니다.",
+      "image": "https://t1.daumcdn.net/cfile/tistory/225A164953C516DF06"
+    },
+    "38": {
+      "Name": "영동중앙시장",
+      "lat": 37.1744508,
+      "lon": 128.109513,
+      "info": "충북 영동군 영동읍 중앙로 21 영동중앙시장\ntel: 043-743-5611",
+      "introduce": "영동중앙시장은 상가형 건물로 상설로 운영되고 있다. 그래서 언제든지 필요한 것이 있으면 구입할 수 있는 동네 슈퍼 같은 시장이기도 하다. 여기에 4일과 9일에 열리는 오일장이 서는 날이면 상가 전체가 사람들로 인산인해를 이룬다. 현대화 되어 있는 건물답게 날씨에 상관없이 쇼핑하기도 편리한 것도 영동중앙시장의 장점 중의 하나다. 시장을 찾는 사람들과 물건을 팔기 위해 나온 상인들을 위한 작은 배려가 돋보인다. 입실시간 : 오후 3시, 퇴실시간 : 오전 11시",
+      "mbti": "ESFP, ISTJ, ENFP, ESTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 사회적인 활동과 다양한 경험을 즐깁니다. 영동 중앙시장은 다양한 음식과 상품을 제공하며, ESFP 유형들이 사람들과의 교류를 통해 즐거운 시간을 보낼 수 있는 환경을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 전통과 안정성을 중요시합니다. 영동 중앙시장은 오랜 역사와 전통적인 시장 분위기를 갖추고 있어 ISTJ 유형들이 고유한 문화와 전통을 경험할 수 있는 장소로써 매력적일 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의성과 새로운 경험을 추구합니다. 영동 중앙시장은 다양한 상점과 독특한 제품들을 제공하며, ENFP 유형들이 새로운 아이디어를 찾고 탐험할 수 있는 환경을 제공할 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 조직적이고 현실적인 활동을 선호합니다. 영동 중앙시장은 다양한 상점과 시장 분위기를 갖추고 있어 ESTJ 유형들이 계획적이고 체계적인 방식으로 쇼핑이나 먹거리 탐방을 즐길 수 있는 환경을 제공할 것입니다.",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjdfMTM4%2FMDAxNjI3Mzg5MDYyNTA2.23B9YoNIWsxeNuE4ZyhtgJ_gsaNrTYtkW9O0uv7VGjUg.5_bMRnq35iaop9t_eGtvjNFE3b0EkGcDURdYCo9hdEgg.JPEG.ebmsa%2Foutput_1229273765.jpg&type=sc960_832"
+    },
+    "39": {
+      "Name": "영동 와인터널",
+      "lat": 37.0130349,
+      "lon": 128.177725,
+      "info": "충북 영동군 영동읍 영동힐링로 30\ntel: 043-740-3636",
+      "introduce": "영동군 레인보우 힐링타운에 위치한 영동와인터널은 길이 420m 터널로 영동의 대표 특산물인 포도로 만든 와인을 주제로 조성된 테마공간으로 10가지의 와인관련 테마를 관람 및 체험할 수 있다 14월 ~ 10월 : 10:00 ~ 18:00​ 11월 ~ 3월 : 10:00 ~ 17:00​ *매표시간은 관람이용 30분전 종료됩니다. (하계 17:30 / 동계 16:30) 휴무일 : 매주 월요일, 설날, 추석​, http://www.yd21.go.kr/tunnel/html/sub01/0101.html",
+      "mbti": "ESFP, ISTJ, ENFP, ESTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 새로운 경험과 즐거움을 추구합니다. 영동 와인 터널은 다양한 와인 테이스팅과 관람을 통해 ESFP 유형들에게 즐거운 시간을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 전통과 안정성을 중요시합니다. 영동 와인 터널은 전통적인 와인 제조 과정과 다양한 와인 종류를 경험할 수 있는 장소로써 ISTJ 유형들에게 매력적일 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의성과 새로운 경험을 추구합니다. 영동 와인 터널은 다양한 와인 종류와 특색 있는 분위기를 제공하여 ENFP 유형들이 새로운 아이디어를 찾고 즐길 수 있는 환경을 제공할 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 현실적이고 계획적인 활동을 선호합니다. 영동 와인 터널은 와인 제조 과정을 체계적으로 관찰하고 다양한 와인을 탐색할 수 있는 환경을 제공하여 ESTJ 유형들이 즐거운 시간을 보낼 수 있습니다.",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMDNfMzAw%2FMDAxNjcyNzMxMTIzNjk1.94uEEh6h2hYIs0hCfSDOujPT7bp0xZuvqF7PlwX1NU0g.jt_k9GfsSRDWfCFnAfnTBB7XXlCdFB2J9VXCQ6a6aOwg.JPEG.lu2u3u%2FDSC07998-01.jpg&type=sc960_832"
+    },
+    "40": {
+      "Name": "블랙스톤 벨포레",
+      "lat": 36.1641269,
+      "lon": 127.782753,
+      "info": "충북 증평군 도안면 벨포레길 346\ntel: 043-926-1000",
+      "introduce": "'BELLE(아름다운) + FORET(숲), 두타산 자락의 수려한 산세와 원남저수지 주변의 빼어난 경관이 함께 어우러져 자연의 멋스러움을 뽐내다' 증평 에듀팜 특구는 충북 첫 관광단지이자 중부권 최대 관광단지로 증평군 도안면 연촌리 일원에 조성되었으며, 총면적 303만 5203㎡의 부지에 관광단지 262만 2825㎡를 갖추었다. 그리고 2017년 12월 중소벤처기업부로부터 관광단지 지정 및 조성 계획 승인 특례 대상으로 선정된 뒤 지난해 착공하여 2019년 6월 부분 개장하여 운영되고 있으며, 현재 골프장(18홀), 루지, 벨포레 목장, 제트보트 체험이 가능하다. 증평 에듀팜 특구 관광단지 블랙스톤 벨포레 리조트에 도착하면 주차장에 주차를 하고 다양한 체험을 편하게 이동할 수 있도록 30분 간격으로 셔틀버스를 운행하고 있다. https://www.blackstonebelleforet.com",
+      "mbti": "ENFJ, ISTP, INFP, ESTJ\nENFJ (Extraverted Intuition Feeling Judging): ENFJ 유형은 사람과의 교류와 자연적인 환경을 즐깁니다. 블랙스톤 벨포레는 자연과 조화로운 분위기와 다양한 활동을 제공하여 ENFJ 유형들에게 매력적일 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 자연과의 접촉과 실용적인 경험을 선호합니다. 블랙스톤 벨포레는 풍부한 자연환경과 액티비티를 제공하여 ISTP 유형들에게 도전과 스릴을 주는 여행 목적지가 될 수 있습니다.\nINFP (Introverted Intuition Feeling Perceiving): INFP 유형은 아름다운 자연과의 연결과 내면적인 경험을 추구합니다. 블랙스톤 벨포레는 아름다운 풍경과 조용한 분위기를 제공하여 INFP 유형들에게 영감과 내면적인 탐색을 할 수 있는 공간을 제공할 것입니다.\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 현실적이고 계획적인 활동을 선호합니다. 블랙스톤 벨포레는 체계적인 액티비티와 풍부한 시설을 제공하여 ESTJ 유형들에게 편안하고 구체적인 여행 경험을 제공할 것입니다.",
+      "image": "https://www.blackstonebelleforet.com/upfile/image/activity/4a477f07-b688-462d-b51d-920195102ff3.JPG"
+    },
+    "41": {
+      "Name": "삼기저수지 등잔길",
+      "lat": 36.7195043,
+      "lon": 127.625950,
+      "info":"충북 증평군 증평읍 율리휴양로 163\ntel: 043-835-4581",
+      "introduce": "증평군의 젖줄 보강천의 지천 삼기천은 증평의 명산 좌구산에서 발원하여 흐른다. 삼기저수지로부터 사곡리 합수점까지 8km를 흐르면서 증평군 남동부의 들판을 적시는 삼기천은 사철 물이 마르지 않는 풍부한 수량을 자랑한다. 삼기저수지 일원에 총장 3km에 이르도록 조성된 수변산책로는 생태공원에서 걷기 시작하여 삼기저수지를 한 바퀴 돌아 원점으로 돌아올 수 있다. 이 산책로는 목재 탐방데크가 수면 위로 지나가도록 되어 있어 좌구산의 4계절 등 다양한 풍경을 감상하면서 산책을 즐길 수 있다. https://www.jp.go.kr/tour/prog/tursmCn/sub01_01_04/view.do?progNo=p00000001483dr1nJ4qv",
+      "mbti": "ESFP, INFJ, ISTJ\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 자연적인 환경과 감각적인 경험을 즐깁니다. 삼기저수지 등잔길은 아름다운 풍경과 다양한 자연적 요소를 제공하여 ESFP 유형들에게 매력적일 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 조용하고 내면적인 경험을 선호합니다. 삼기저수지 등잔길은 평화로운 분위기와 조용한 자연환경을 제공하여 INFJ 유형들에게 내면적인 탐색과 평온한 여행 경험을 제공할 것입니다.\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 현실적이고 체계적인 활동을 선호합니다. 삼기저수지 등잔길은 체계적인 산책로와 아름다운 풍경을 제공하여 ISTJ 유형들에게 안정적이고 계획적인 여행 경험을 제공할 것입니다.",
+      "image": "https://www.newsro.kr/wp-content/uploads/2021/04/%EC%82%BC%EA%B8%B0%EC%A0%80%EC%88%98%EC%A7%80-%EB%B2%9A%EA%BD%83-2-771x514.jpg"
+    },
+    "42": {
+      "Name": "장이 익어가는 마을",
+      "lat": 36.8005481,
+      "lon": 127.577944,
+      "info": "충북 증평군 증평읍 송티로 76-12\ntel: 043-835-3894",
+      "introduce": "농촌지역의 여건 악화로 주민의 삶의 질 저하에 대한 대응책마련으로 2005년부터 추진하고 있는 '테마와 함께하는 미래로 가는 길목마을' 사업성과를 조기에 달성하고 위의 계기로 송산리가 테마가 있는 마을 가꾸기 사업으로 선정되어 장이익어가는 인삼마을로조성하고 있으며 위 사업의 성공의 필수 조건인 정보화를 통하여 지역의 특산물 판매, 도농간 문화교류 등 마을 홍보 매체로 활용 경쟁력 강화 깨끗한 환경과 지리적 요건을 발판으로 농가 소득을 증대시키고 있다. 증평읍 송산리 길목마을은 증평읍 북쪽에 있으며 진천군과 경계를 이루고 있고, 마을뒤로는 두타산이 병풍처럼 둘러싸여 있고 앞으로는 증평군의 젖줄인 보강천이 흐르고 있는 전통적인 농촌마을로, 주변에는 인삼바이오센터와 군 종합병원이 자리하고 있다. http://jang.invil.org",
+      "mbti": "INFJ, ESTP, ISFJ\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 심층적인 체험과 문화적인 영감을 추구합니다. 길목마을은 역사와 전통을 보존한 분위기와 예술적인 요소를 제공하여 INFJ 유형들에게 매력적일 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 자연환경과 즉각적인 체험을 선호합니다. 길목마을은 아름다운 자연경관과 활동적인 프로그램을 제공하여 ESTP 유형들에게 매력적일 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 전통과 공동체에 소중함을 둡니다. 길목마을은 전통적인 분위기와 지역사회의 문화를 경험할 수 있는 기회를 제공하여 ISFJ 유형들에게 매력적일 것입니다.",
+      "image": "https://jang.invil.org/image/ch/type02/jang/invil/ct_10101_img01.gif"
+    },
+    "43": {
+      "Name": "남하리 석조미륵보살입상",
+      "lat": 36.7635040,
+      "lon": 127.596258,
+      "info": "충북 증평군 증평읍 남하리 133-2\ntel: 043-835-4111",
+      "introduce": "증평읍의 남하리 마을 논밭 사이에 북쪽을 향하여 서 있는 불상이다. 작은 2구의 불상과 함께 주변에 흩어져 있던 것이다. 1949년 마을 뒷산에 성주사를 세운 윤월인 스님이 불상들을 모아 다시 세웠다. 한국전쟁 후 마을의 수호부처로서 주민들이 보호하고 있다. 발 아래부분이 땅에 묻혀 있는 이 불상은 머리에 높은 보관을 쓰고 왼손을 가슴부분에 들어 연꽃송이를 받치고 있는 보살상이다. 보관을 써서 머리부분이 상당히 큰 편이고, 어깨가 좁으며 몸의 양감은 편평하여 전체적으로 길쭉한 사각형의 형태를 보인다. 미소짓는 얼굴의 표정이 잘 조각되어 온화한 인상을 풍기고 있다. 입고 있는 옷은 가슴부분이 넓게 벌어지게 표현되었고 아래부분에서는 두 다리에 둥근 옷주름이 늘어져 있다. 이 불상은 전체 높이가 350㎝의 거대한 크기로 고려시대 중기 이후 지방에서 유행하는 보살상의 특징을 잘 보여준다.",
+      "mbti": "INFJ, ESTP, ISFP, INTJ\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 심적인 성장과 영적인 경험을 추구합니다. 남하리 석조 미륵보살은 독특하고 고요한 분위기를 갖추고 있어, INFJ 유형들에게 매력적인 영감과 명상의 장소일 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 새로운 경험과 도전을 즐깁니다. 남하리 석조 미륵보살은 독특한 예술작품으로서 새로운 시각과 감동을 제공하여 ESTP 유형들에게 매력적일 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 예술과 자연을 사랑하며 아름다움을 감상하는 것을 즐깁니다. 남하리 석조 미륵보살은 예술적인 요소와 독특한 디자인으로 ISFP 유형들에게 매력적일 것입니다.\nINTJ (Introverted Intuition Thinking Judging): INTJ 유형은 지적인 탐구와 독특한 문화적인 경험을 추구합니다. 남하리 석조 미륵보살은 역사적이고 심볼적인 의미를 가지고 있어 INTJ 유형들에게 매력적인 문화적인 명소일 것입니다.",      
+      "image": "https://image.mycelebs.com/travel/new/ho/393650_ho_1499096251.jpg"
+    },
+    "44": {
+      "Name": "동막골 오디농장",
+      "lat": 36.7971283,
+      "lon": 127.454074,
+      "info": "충북 진천군 문백면 옥성리 196\ntel: 010-9577-6500",
+      "introduce": "생거진천 동막골 오디농장을 조성한지 7년이 지났다고한다. 지난 2011년 6월에 KBS방송에서도 소개된 이 곳 오디농장에서는 농촌교육농장으로 오디가 익어가는 과정, 잘 익은 오디를 구분하여 수확, 오디를 재료로한 슬러쉬 만들기체험도 가능하다",
+      "mbti": "ESFP, ISFP, ENFP, INFP\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 자연과 감각적인 경험을 즐기는 경향이 있습니다. 동막골 오디농원은 아름다운 자연 환경과 실제 오디농사 체험을 제공하므로, ESFP 유형들에게 매력적일 것입니다.\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연의 아름다움과 감성적인 경험을 중요시하는 경향이 있습니다. 동막골 오디농원은 풍부한 자연과 뽕농사에 대한 체험을 제공하므로, ISFP 유형들에게 매력적일 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의성과 새로운 경험을 추구하는 경향이 있습니다. 동막골 오디농원은 독특한 농사 체험과 자연의 아름다움을 제공하므로, ENFP 유형들에게 매력적일 것입니다.\nINFP (Introverted Intuition Feeling Perceiving): INFP 유형은 깊은 감정과 내적인 성장을 중요시하는 경향이 있습니다. 동막골 오디농원은 조용하고 평화로운 환경에서 자연과 함께하는 경험을 제공하므로, INFP 유형들에게 매력적일 것입니다.",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODA2MDlfMjM2/MDAxNTI4NTQ5MjMxNDY4.CZb2R00OY1_dojRjDu4QBRtADJJIFN9AVQS_eZLkFLwg.6zNlIcaI6eCeR1qgHIyKutmzp0uUMjFWlbYrv7vLBbog.JPEG.jonson04/1528372724199.jpg?type=w800"
+    },
+    "45": {
+      "Name": "보탑사 산사체험 ",
+      "lat": 36.8396673,
+      "lon": 127.341017,
+      "info": "충북 진천군 진천읍 김유신길 641\ntel: 043-533-0206",
+      "introduce": "보탑사는 진천읍 보련산 자락에 지은 비구니 사찰이다. 고려시대 절터가 있던 곳에 창건한 절로 통일을 기원하는 마음으로 지은 3층 목탑이 있다. 목탑에서 바라보는 보련산은 마치 연꽃의 꽃잎과 같은 모양으로 보탑사는 그 연꽃의 꽃술부분에 자리하고 있다. 조용한 산사의 아름다움을 느낄 수 있는 보탑사에서는 템플스테이를 운영하고 있다. 불교 수행의 꽃은 깨달음과 자비이다. 자연 속에 머물며 깨달음으로 가는 수행을 체험하고 자비를 실천하는 스님들의 삶을 엿보며 힘든 나를 잠시 내려놓을 수 있는 것이 바로 산사체험이다. 보탑사 템플스테이는 정규 1박2일 프로그램과 템플라이프, 자율휴식형으로 나누어져 있다. 자율휴식형 템플스테이는 예불과 공양에 참여하고 산책등 개인적인 시간을 보낼 수 있는 산사체험이다. 자연 속에서 나를 돌아보는 산사체험을 통해 새로운 가치를 찾는 시간을 보낼수 있다.",
+      "mbti": "ISTJ, INFJ, ESTP, ENFJ\nISTJ (Introverted Sensing Thinking Judging): ISTJ 유형은 전통적인 가치와 체계를 중요시하는 경향이 있습니다. 보탑사 산사 체험은 고대의 절과 문화를 경험하고 규율적인 분위기를 느낄 수 있는 기회를 제공하므로, ISTJ 유형들에게 매력적일 것입니다.\nINFJ (Introverted Intuition Feeling Judging): INFJ 유형은 깊은 내적 성장과 종교적인 경험을 중요시하는 경향이 있습니다. 보탑사 산사 체험은 정적인 환경과 명상적인 분위기를 통해 내면의 평화와 깨달음을 찾을 수 있는 기회를 제공하므로, INFJ 유형들에게 매력적일 것입니다.\nESTP (Extraverted Sensing Thinking Perceiving): ESTP 유형은 활동적이고 현실적인 경험을 추구하는 경향이 있습니다. 보탑사 산사 체험은 아름다운 자연과 역동적인 사찰 활동을 통해 새로운 경험을 제공하므로, ESTP 유형들에게 매력적일 것입니다.\nENFJ (Extraverted Intuition Feeling Judging): ENFJ 유형은 사회적인 가치와 다른 사람들과의 교류를 중요시하는 경향이 있습니다. 보탑사 산사 체험은 다양한 사찰 멤버들과의 교감과 함께 종교적인 이해와 성장을 도모할 수 있는 기회를 제공하므로, ENFJ 유형들에게 매력적일 것입니다.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1c/17/b6/caption.jpg?w=1200&h=-1&s=1"
+    },
+    "46": {
+      "Name": "만뢰산자연생태공원",
+      "lat": 36.8491296,
+      "lon": 127.365131,
+      "info": "충북 진천군 진천읍 김유신길 340-38\ntel: 043-539-3448, 043-539-3458",
+      "introduce": "자연환경이 잘 보전되어 있는 진천군 만뢰산 일대에 조성한 자연생태공원이다. 자연생태관찰을 통해 자연보전의식 함양과 여가선용, 생태관광자원화를 위한 것으로 개장이후 많은 사람들이 찾고 있다. 11만 8,507㎡ 규모로 조성된 만뢰산자연생태공원은 조경시설, 관광·휴양시설, 교양시설, 공공시설 등을 갖추고 있다. 그리고 다양한 생태 체험과 관광이 가능한 지역명소이다. 관광·휴양시설로는 가족 피트닉장, 물놀이 체험장, 자연과학놀이터 등이 있다. 교양시설로 생태교육장, 별자리마당, 곤충관찰원, 임간학습장이 있으며, 공공시설로는 방문객 센터와 관찰데크, 탐방로, 도로 등이 조성되어 있다. 가까이에 보탑사와 김유신장군탄생지 및 태실이 있으며 자연환경의 아름다움을 만끽하기에 좋은 곳이다.",
+      "mbti": "ISFP, INTP, ESFP, ENFP\nISFP (Introverted Sensing Feeling Perceiving): ISFP 유형은 자연과 조화롭게 연결되고 감성적인 경험을 추구하는 경향이 있습니다. 만로산 자연생태공원은 아름다운 자연환경과 동식물 다양성을 경험할 수 있는 기회를 제공하므로, ISFP 유형들에게 매력적일 것입니다.\nINTP (Introverted Intuition Thinking Perceiving): INTP 유형은 지적 호기심과 자연의 작용에 대한 이해를 중요시하는 경향이 있습니다. 만로산 자연생태공원은 자연과 과학적인 지식을 탐구하고 실험할 수 있는 기회를 제공하므로, INTP 유형들에게 매력적일 것입니다.\nESFP (Extraverted Sensing Feeling Perceiving): ESFP 유형은 새로운 경험과 다양한 감각적인 자극을 추구하는 경향이 있습니다. 만로산 자연생태공원은 야외 활동과 자연의 아름다움을 체험할 수 있는 기회를 제공하므로, ESFP 유형들에게 매력적일 것입니다.\nENFP (Extraverted Intuition Feeling Perceiving): ENFP 유형은 창의적인 자유로움과 자연과의 연결을 중요시하는 경향이 있습니다. 만로산 자연생태공원은 창의적인 자극과 자연의 조화를 느낄 수 있는 기회를 제공하므로, ENFP 유형들에게 매력적일 것입니다.",
+      "image": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=62a02fd2-59c8-4eeb-8fda-ad15eac01b5c"
+
+    },
+    "47": {
+      "Name": "히든밸리 골프클럽",
+      "lat": 36.9022635,
+      "lon": 127.312380,
+      "info": "충북 진천군 백곡면 갈월리 산 29-1\ntel: 043-539-7900",
+      "introduce": "히든밸리 골프클럽은 이름처럼 코스 전체가 원시적인 자연수림 계곡 속에 위치하였으며, 전체코스로부터 외부로는 원거리의 높은 아름다운 산악 경관만 보일 뿐 외부와는 완전 차단된 명문 18홀 대중골프코스이다. 계절별로 참나무와 소나무 숲이 모습을 바꾸어 가며 경관을 제공하는 이곳은 봄에는 진달래, 산벚나무가 근경을 아름답게 수놓을 것이며, 여름에는 숲 속의 야생 초화류가, 가을에는 황금빛 낙엽이 아름답도록 설계 되었다. 또한, 기존 계곡을 여러 갈래의 크릭과 대형 호수로 재연출하므로서 수질보전과 생태보호, 아름다움을 모두 갖추도록 하였다. 코스 천체에는 5개씩의 티잉그라운드가 조성되어 토너먼트 프로와 아마츄어 플레이어 모두에게 흥미로운 코스로 환영 받을 것이다. '히든밸리 골프클럽'은 전반적으로 기존 수림을 최대한 보존하고 훼손을 최소화하여 조성된 삼림욕장을 걷는 듯한 골프코스이며, 자연능선과 계곡의 형태를 가능하면 코스 조성에 연결시켜 페어웨이와 그린에 자연스러운 조형미를 연출하였다. 인위적 조경을 최소화하고 보존수림을 활용한 조경 경관 또한 평범 속의 아름다움으로서 이곳을 찾는 골퍼들에게 깊은 여운을 남길것이다 http://www.hiddenvalley.co.kr",
+      "mbti": "ESTJ, ISTP, ENTJ, ISFJ\nESTJ (Extraverted Sensing Thinking Judging): ESTJ 유형은 경쟁적인 환경에서 실력을 발휘하고 목표를 달성하는 것을 좋아합니다. 히든밸리 골프클럽은 도전적이고 전략적인 골프 경험을 제공하므로, ESTJ 유형들에게 매력적일 것입니다.\nISTP (Introverted Sensing Thinking Perceiving): ISTP 유형은 독립적이고 기술적인 활동을 선호합니다. 골프는 정확성과 기술을 요구하는 스포츠로, ISTP 유형들에게 매력적일 것입니다.\nENTJ (Extraverted Intuition Thinking Judging): ENTJ 유형은 경영과 전략에 관심이 많으며 성취를 추구합니다. 골프는 전략적인 판단과 리더십을 요구하므로, ENTJ 유형들에게 매력적일 것입니다.\nISFJ (Introverted Sensing Feeling Judging): ISFJ 유형은 안정적이고 조화로운 환경을 선호합니다. 골프는 조용하고 평온한 분위기에서 즐길 수 있는 활동으로, ISFJ 유형들에게 매력적일 것입니다.",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDA2MDRfMjA1/MDAxNTkxMjc1MjA3NzEz.Zl3anMMSodtBvqXg7YTAtL4G1ouWVhPg2BhcgQxPCQog.8Bu56KMCKGaEGgPcxc9f8XvGUSOapboBW8NTiPDxWCgg.JPEG.double_bogey/1591275206927.jpg?type=w800"
+    }
+  },
+  "restaurant": {
+    "1": {
+      "Name": "이우철한방누룽지삼계탕",
+      "lat": 36.6605791,
+      "lon": 127.515036,
+      "info": "충북 청주시 청원구 1순환로1896번길 19-32 102호",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMzAzMjBfMjY4/MDAxNjc5MjU5MzY1MjYx.sFIrNp7SwFH_tltm47fmBh264b_Ytjr0s_ElpthUnA4g.szPjjv0DLAKwPfYAT2kvIVdFgV_XsfFuU7MqKEQVA8Mg.JPEG.gwenys/1679258108004.jpg?type=w800"
+    },
+    "2": {
+      "Name": "동보성",
+      "lat": 36.6384676,
+      "lon": 127.510383,
+      "info": "충북 청주시 상당구 명암로 30 5층",
+      "image": "https://d12zq4w4guyljn.cloudfront.net/750_750_20220620101922_photo0_9bATSvgYPP3B.jpg"
+    },
+    "3": {
+      "Name": "솥정",
+      "lat": 36.6424301,
+      "lon": 127.425894,
+      "info": "충북 청주시 흥덕구 대농로 33 테라스퀘어 2층",
+      "image": "https://ak-d.tripcdn.com/images/1i65d2215cznosay89486.jpg?proc=source/trip"
+    },
+    "4": {
+      "Name": "목구멍",
+      "lat": 36.6402342,
+      "lon": 127.430142,
+      "info": "충북 청주시 흥덕구 진재로 101 1층",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA2MTlfMjU3/MDAxNjU1NjE4NjY1OTQy.jC5x4nW7M8UL0uN9Gp-usL00xtLbmFkZQUIY0sGkB-Yg.EosJREBwDL4K7MgTUfP5T87IAuWZyJdYcofpMyda3AEg.JPEG.wlalddld/output_152211267.jpg?type=w800"
+
+    },
+    "5": {
+      "Name": "안다미로",
+      "lat": 36.6361381,
+      "lon": 127.489939,
+      "info": "충북 청주시 상당구 상당로91번길 7-3 2층",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzA0MDZfOTIg/MDAxNDkxNDYwNjQxODY2.N3qHxnteFynTSWdYsa9c1LkhKHkKXnR47BrFXwZwm5wg.D0uOfkKGoAb5mEjwNZi9GWrazKYD7LD5pSV_SkrHXDsg.JPEG.yujoki76/%EC%B2%AD%EC%A3%BC_%EC%95%88%EB%8B%A4%EB%AF%B8%EB%A1%9C%284%29.JPG?type=w2"
+    },
+    "6": {
+      "Name": "성안골",
+      "lat": 36.6334230,
+      "lon": 127.488413,
+      "info": "충북 청주시 상당구 상당로59번길 37-6",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA0MDhfMTQy/MDAxNjE3ODg5NTE3MDIy.hBF6acbYn1pgLFv9MYlG4xoZz3CdJiqQDVP_kZYEKZUg.51bUL8Vz5PBWxkMJYWCL2Ftv0JBwvWawRrlWUukzxNgg.JPEG.ines011/%EF%BB%BF%EC%B2%AD%EC%A3%BC_%EC%84%B1%EC%95%88%EA%B3%A810.JPG?type=w800"
+
+    },
+    "7": {
+      "Name": "야채꽃월남쌈",
+      "lat": 36.7168386,
+      "lon": 127.427523,
+      "info": "충북 청주시 청원구 오창읍 중심상업로 65-16",
+      "image": "https://blog.kakaocdn.net/dn/bgCsTp/btqAwk3wDQP/j3E0tyH1RxQekyIZaKvRE1/img.jpg"
+    },
+    "8": {
+      "Name": "두심온",
+      "lat": 36.7170454,
+      "lon": 127.430166,
+      "info": "충북 청주시 청원구 오창읍 중심상업로 66-9 ",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA2MjBfMTY5/MDAxNjI0MTg1ODAyODYw.iqN5x3KGlJyHVoscVgaeX3r6-wDbFZLhIa3wpgEw5AQg.iyhjNs9ZqXVuGgACPg7dnrni9qvt5W4N9nVoKM_V2LEg.JPEG.kkhjecty1/KakaoTalk_20210611_175603232_01.jpg?type=w800"
+    },
+    "9": {
+      "Name": "바이중국",
+      "lat": 36.6552910,
+      "lon": 127.482310,
+      "info": "충북 청주시 청원구 내덕로8번길 9",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODAxMDhfMjQ4/MDAxNTE1Mzg4OTQ5NjI5.Fed1lLVL9wAyd5Q4h3rZn0D2kthblKhGv24hK35Za2Yg.7xFuJSD9HJjAENQUviJOtr8XA5XyhNceTwuom57h7gMg.JPEG.n0miya10/20180107_191801.jpg?type=w800"
+    },
+    "10": {
+      "Name": "가화한정식",
+      "lat": 36.6570348,
+      "lon": 127.483394,
+      "info": "충북 청주시 청원구 내덕로 27",
+      "image": "https://mp-seoul-image-production-s3.mangoplate.com/128198/nofupmt2ncm7z4.jpg"
+    },
+    "11": {
+      "Name": "영화식당",
+      "lat": 36.8474281,
+      "lon": 127.990395,
+      "info": "충북 충주시 수안보면 물탕1길 11 ",
+      "image": "https://blog.kakaocdn.net/dn/qsLvE/btqNf6Ha376/YLwGKS0IKi9TFKCyP9x8e0/img.jpg"
+    },
+    "12": {
+      "Name": "향나무집",
+      "lat": 36.8452798,
+      "lon": 127.991937,
+      "info": "충북 충주시 수안보면 장터1길 11",
+      "image": "https://t1.daumcdn.net/cfile/tistory/21644D3B57563D6F24"
+    },
+    "13": {
+      "Name": "감로정",
+      "lat": 36.9866125,
+      "lon": 127.903427,
+      "info": "충북 충주시 탄금대로 266-3",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODAxMDNfMTQ5/MDAxNTE0OTg4NDYzNTc2.y4ywRhaoKDNkP-_4xcOtgcf3laWQVec40AVVh4QVrpUg.4v6tQiB_-Hh7JVxEnCYDCbkNQL50_16WRKEt12Z1aPAg.JPEG.baslac/1514988149052.jpg?type=w800"
+    },
+    "14": {
+      "Name": "이씨식당",
+      "lat": 36.9847401,
+      "lon": 127.909100,
+      "info": "충북 충주시 능바우길 15",
+      "image": "https://img.siksinhot.com/place/1482116590566372.jpg?w=307&h=300&c=Y"
+    },
+    "15": {
+      "Name": "우하하",
+      "lat": 36.9901788,
+      "lon": 127.932831,
+      "info": "충북 충주시 연수서편3길 26-16 1층",
+      "image": "https://www.busaneconomy.com/news/photo/201804/64855_55863_3756.JPG"
+    },
+    "16": {
+      "Name": "시골식당",
+      "lat": 36.9895838,
+      "lon": 127.995097,
+      "info": "충북 충주시 하종민길 1",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTAzMDRfMTY5/MDAxNjE0ODYyNzI3MDEy.b2_BEgwBNAdklmNdOZKnuUM4FhUBvRP6M1THXX0_Wzog.cQUOYkbtDSJdzCNRVcXb_uq3udKdGKK8nwPuSS9P2xwg.JPEG.choizeun/KakaoTalk_20210223_215722930_01.jpg?type=w800"
+    },
+    "17": {
+      "Name": "터줏골명가",
+      "lat": 36.9890621,
+      "lon": 127.926999,
+      "info": "충북 충주시 금제7길 14 터줏골명가",
+      "image": "https://img.siksinhot.com/place/1478368382380339.jpg?w=307&h=300&c=Y"
+    },
+    "18": {
+      "Name": "강경불고기",
+      "lat": 36.9820675,
+      "lon": 127.939932,
+      "info": "충북 충주시 갱고개로 124-1",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipO5Qw-PgSm5q2wlRRo4ZVDq4jTKGin5d1Crmq93=w768-h768-n-o-v1"
+    },
+    "19": {
+      "Name": "나루터가든",
+      "lat": 37.0096770,
+      "lon": 127.867443,
+      "info": "충북 충주시 중앙탑면 중앙탑길 6",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA0MjJfMTY5/MDAxNjE5MDcxMDY1OTM3.RFNjX_4gRLseEsUEmuTtxZm7CZx2kSIMAanMR5prKCUg.A2NP4n7gupWWO6G_G_U5k94lKin2jMMMDcfdhNUEBeQg.PNG.kns2ar/00.png?type=w800"
+    },
+    "20": {
+      "Name": "행복담는 국수집",
+      "lat": 37.0081547,
+      "lon": 127.868617,
+      "info": "충북 충주시 중앙탑면 청금로 278 (루암리187-3)",
+      "image": "https://img1.daumcdn.net/thumb/C500x500/?fname=http://t1.daumcdn.net/brunch/service/user/3k8/image/6RGIZ1gOi6AGnkDyIwkr1HHdeFw.jpg"
+    },
+    "21": {
+      "Name": "승원능이백숙",
+      "lat": 37.1772081,
+      "lon": 128.207278,
+      "info": "충북 제천시 의림대로47길 34",
+      "image": "https://emmaru.com/matzip/include/pics/2017/02/30/m_50342Y210317_7.jpg"
+    },
+    "22": {
+      "Name": "꿀참식당",
+      "lat": 37.1780889,
+      "lon": 128.208385,
+      "info": "충북 제천시 의림대로49길 13",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA5MTRfMTc5/MDAxNjYzMTYxNzI4MTU4.LJ50Nmt8HgM5e0fKAfcFvMtloYFQSgfN0_pBoyca-rAg.8B6lQ_fWPmupjs9sspBSOOpr8XE52z-l-jsq57kXqdIg.JPEG.ghunin/20220626%EF%BC%BF125343.jpg?type=w800"
+
+    },
+    "23": {
+      "Name": "풀향기",
+      "lat": 37.1670481,
+      "lon": 128.105262,
+      "info": "충북 제천시 봉양읍 제원로 485",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA0MDFfMjg1/MDAxNjE3MjQ5NTc4NDcz.uIXkAQ5vJDTokTi_PrnZiTkZ3u4-riKs2Aa0JPM68gsg.76iLlaV70uNzTGarrz8ji3bC_lQd0ZUTrbzrppu-6UIg.JPEG.treveluv/KakaoTalk_20210330_095904696_12.jpg?type=w800"
+    },
+    "24": {
+      "Name": "탁사정 다리골",
+      "lat": 37.1668867,
+      "lon": 128.105180,
+      "info": "충북 제천시 봉양읍 제원로 483",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTA5MzBfNCAg/MDAxNTY5ODA5NzE5MjQy.fiMCYDEc5WbTHZTxk68lU2swIzEgFFc-JeRoTrH_AWcg.0O1VhprcMRhMGExuKsZ0pAxYzm57JIYTDtfsPiHS6Jcg.JPEG.cbkb21/a_(10).JPG?type=w800"
+    },
+    "25": {
+      "Name": "청풍황금송어",
+      "lat": 37.0299961,
+      "lon": 128.180043,
+      "info": "충북 제천시 금성면 청풍호로39길 25",
+      "image": "https://d12zq4w4guyljn.cloudfront.net/750_750_20220817005935_photo1_8847da7f1f72.jpg"
+    },
+    "26": {
+      "Name": "청풍황금떡갈비",
+      "lat": 37.0207172,
+      "lon": 128.172607,
+      "info": "충북 제천시 청풍면 청풍호로 1682",
+      "image": "https://www.inews365.com/data/photos/20171249/art_1512438508065.jpg"
+    },
+    "27": {
+      "Name": "속리토속음식점",
+      "lat": 36.5308803,
+      "lon": 127.821218,
+      "info": "충북 보은군 속리산면 법주사로 261",
+      "image": "https://emmaru.com/matzip/include/pics/2020/08/26/m_20934O130908_3.jpg"
+    },
+    "28": {
+      "Name": "보은대추닭강정",
+      "lat": 36.4829226,
+      "lon": 127.717593,
+      "info": "충북 보은군 보은읍 삼산로5길 3",
+      "image": "https://www.newsfreezone.co.kr/news/photo/202005/236120_236907_530.jpg"
+    },
+    "29": {
+      "Name": "기사님식당",
+      "lat": 36.5124970,
+      "lon": 127.810710,
+      "info": "충북 보은군 속리산면 법주사로 18",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTAxMTJfMjg2/MDAxNTQ3MjcwMTQxMjI2.xJ1i8zYDTx8NY67RX-RICtjjiJDPSPrRxpAMsAqd654g.u80DGabljdE_2rL9ei70uEVWYYHIyV2v6Ti2d5iazdsg.JPEG.mere43/1547267250971.jpg?type=w800"
+    },
+    "30": {
+      "Name": "송연식당",
+      "lat": 36.5127080,
+      "lon": 127.810165,
+      "info": "충북 보은군 속리산면 법주사로 15",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTAzMTJfNjkg/MDAxNTUyMzcyNTI3OTcy.6PnuGXIa2zTZG9OEMtvjLi43tjnojv1syo968ebMjT8g.v1L0vBZvkNR3co7Xa5BIO0liddK2YgLWBKgZ-vgXrtkg.JPEG.kmt6101/501.jpg?type=w800"
+    },
+    "31": {
+      "Name": "토우촌",
+      "lat": 36.5841683,
+      "lon": 127.673553,
+      "info": "충북 보은군 내북면 남부로 6384",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA5MDlfMTA2/MDAxNjYyNzA2NTEyMTAz.1FXEWtC2pthOobwZHEdemlGYIcU6BHXn3LG6EKHMMdgg.8hIEvosHo1PqelrS_lCsx5gLCZEbbshjyS_ghko9XPgg.JPEG.lucy_q/IMG_5242.jpg?type=w800"
+    },
+    "32": {
+      "Name": "나의신랑은나무꾼",
+      "lat": 36.3496834,
+      "lon": 127.523792,
+      "info": "충북 옥천군 군북면 비야대정로 243 주1동",
+      "image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbp4wEW%2FbtrDGJl7JBm%2FsguklYNYNrR61QCkADd7L1%2Fimg.jpg"
+    },
+    "33": {
+      "Name": "돌바우풍천장어",
+      "lat": 36.3447494,
+      "lon": 127.524862,
+      "info": "충북 옥천군 군북면 비야대정로 187",
+      "image": "https://blog.kakaocdn.net/dn/cFq38h/btr3ccYGYDL/uoHasY2jpxgfS4Bf9hcXgk/img.jpg"
+    },
+    "34": {
+      "Name": "배바우손두부",
+      "lat": 36.3569526,
+      "lon": 127.674012,
+      "info": "충북 옥천군 안남면 연주길 33",
+      "image": "https://www.welchon.com/upload/namo/images/000301/20221129132326560_3O1M0VIB.png"
+    },
+    "35": {
+      "Name": "바다네가든",
+      "lat": 36.3949666,
+      "lon": 127.668599,
+      "info": "충북 옥천군 안내면 안내보은로 87",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODEwMDhfMTEg/MDAxNTM5MDA5MzU2MDE1.HdczYdmSS5gfrOudWSguunkEAwtMmuSvn0U75jjHKzcg.8HJxBhRXaWvDmVz72YdXkXiam6uZFH6i4wH9-PwrLhgg.JPEG.narang402/20181008_154516.jpg?type=w800"
+    },
+    "36": {
+      "Name": "옥천묵집",
+      "lat": 36.3148772,
+      "lon": 127.583033,
+      "info": "충북 옥천군 옥천읍 향수7길 8",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTEyMDhfMTEg/MDAxNTc1Nzc5MTQ3OTM5.FzD4XgzZgk-T020hqtyB3XTXCZzEgS9xa8RVo_tMcg0g.K9hIC9MFIQ54Ni-0rmquvKrXs5JmXcQ4C8PoHSC0EHAg.JPEG.minheeso/IMG_3039.jpg?type=w800"
+    },
+    "37": {
+      "Name": "골목쌈밥",
+      "lat": 36.3162111,
+      "lon": 127.582987,
+      "info": "충북 옥천군 옥천읍 향수길 75-6",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA1MTNfMTcw/MDAxNjUyNDI5MTkxMTkx.wfMQSAWvWz-116toj4ynDzMu4lnc_VpBG2iKwiozT0Qg.I0aXkmiuyZYcSlhjByNyqjP4TC0SXeUWvXk9vd9lprog.JPEG.tajoa19/IMG_0210.jpg?type=w800"
+    },
+    "38": {
+      "Name": "부산식당",
+      "lat": 36.2801972,
+      "lon": 127.671416,
+      "info": "충북 옥천군 동이면 조령2길 23",
+      "image": "https://cdn.okcheoni.com/news/photo/202206/11982_35292_5446.jpg"
+    },
+    "39": {
+      "Name": "경상식당",
+      "lat": 36.2799911,
+      "lon": 127.671214,
+      "info": "충북 옥천군 동이면 조령2길 27",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjAxMDRfMTY0/MDAxNjQxMjYyOTk0MjQw.JZRejodCrOPpW2haF4llnZZ3ktvSnQ_TKFn13r9ygO8g.sYsv0lMHh4YLOc85nGDQxvJc8gIPLk3Dm0f7jy0gEfog.JPEG.bluesky0518/SE-8caa7103-ecee-4dcf-88b1-10aeb27e4095.jpg?type=w800"
+    },
+    "40": {
+      "Name": "동원식당",
+      "lat": 36.6682304,
+      "lon": 127.812908,
+      "info": "충북 괴산군 청천면 화양동길 206",
+      "image": "https://img.siksinhot.com/place/1562119379122414.jpg"
+    },
+    "41": {
+      "Name": "송면가든",
+      "lat": 36.6720075,
+      "lon": 127.861485,
+      "info": "충북 괴산군 청천면 송문로 6",
+      "image": "https://d12zq4w4guyljn.cloudfront.net/750_750_20200806114826_photo1_c0bf746d5fb2.jpg"
+    },
+    "42": {
+      "Name": "괴산산막이매운탕",
+      "lat": 36.7616843,
+      "lon": 127.838709,
+      "info": "충북 괴산군 칠성면 산막이옛길 80-11",
+      "image": "https://www.ok114.co.kr/pds/ok114/admn/bsninfo/20190902/eqxxuovopu.jpg"
+    },
+    "43": {
+      "Name": "산막이 세자매",
+      "lat": 36.7616453,
+      "lon": 127.839123,
+      "info": "충북 괴산군 칠성면 산막이옛길 80-10",
+      "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzAxMDFfMjky%2FMDAxNjcyNTg0MjcyNjM1.LMSI98qI-chKdyKThwO196ZDzvzY2zZMJeVi-_9vozQg.NUf137arpRqIEsfO3U1rezWIHzTCofbKqwkJ3o-N7EUg.JPEG%2F20230101_141936.jpg"
+    },
+    "44": {
+      "Name": "신기송어장횟집",
+      "lat": 36.7788570,
+      "lon": 127.761145,
+      "info": "충북 괴산군 문광면 괴산로신기2길 8-25",
+      "image": "https://blog.kakaocdn.net/dn/bCBAZn/btqDOHiGrj7/Y2Esbie1HRZoVeTl9Hv3WK/img.jpg"
+    },
+    "45": {
+      "Name": "가족농원",
+      "lat": 36.7467092,
+      "lon": 127.725971,
+      "info": "충북 괴산군 문광면 괴산로 2596 ",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAzMjRfMTg3%2FMDAxNDkwMzMyMzY5ODI1.NlZ5N4ToLghK_HjRSirwKfof7PiUDOfFPBpeEkg8dEYg.n762UWaq5K0v0VSBE7m-9cGKdxTq-YJKHueWOw0LKDsg.JPEG.cb-sports%2F%25C1%25A6%25C1%25DF%25C7%25D1%25BD%25C4%25C3%25CC.jpg"
+    },
+    "46": {
+      "Name": "고사리산장식당",
+      "lat": 36.8136634,
+      "lon": 128.040278,
+      "info": "충북 괴산군 연풍면 새재로 1825 ",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MjRfMjE5%2FMDAxNTk4MjU2MTIzMTk0.nlz9mRwHoNPzr5vX8JZvdGjERJEYK9ja2gO551Olmv0g.GkssFXI-5rBbLxweyVlIR0dv-GKXniFkMI4LZJ5AlUsg.JPEG.nayoung6262%2Foutput_463342941.jpg"
+    },
+    "47": {
+      "Name": "새재황토방",
+      "lat": 36.8138129,
+      "lon": 128.039664,
+      "info": "충북 괴산군 연풍면 새재로 1833",
+      "image": "https://img.siksinhot.com/place/1624436873965256.jpg?w=307&h=300&c=Y"
+    },
+    "48": {
+      "Name": "한우리",
+      "lat": 36.9747153,
+      "lon": 127.488007,
+      "info": "충북 음성군 대소면 대성로 45",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDA5MTVfMTI2/MDAxNjAwMTI4MDAxMzE4.1yiP_isAsTBSpYbiOrM9rSw00Ijr9HjPS6yBHdNDLnQg.25e8yeQFujMJoaHqZi3js1fJtAsX9lHwFnZtvAm5UDsg.JPEG.damisim/5D3BEE2A-063E-4204-9340-4737EA0A41BE.jpeg?type=w800"
+    },
+    "49": {
+      "Name": "풍산가든",
+      "lat": 36.9781272,
+      "lon": 127.493150,
+      "info": "충북 음성군 대소면 새미실길 76",
+      "image": "https://shop-phinf.pstatic.net/20220111_181/164190380166932Pwy_JPEG/43039697396546494_2105656211.JPG?type=f296_296"
+    },
+    "50": {
+      "Name": "영빈관",
+      "lat": 36.9372792,
+      "lon": 127.691088,
+      "info": "충북 음성군 음성읍 읍내리 308",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTA2MTNfODkg/MDAxNjIzNTg2NTc3MDYz.kiFuuKiKYKJFMD-q94TiN3ByTu0bYB4ullG6s5Q-NUEg.OnWvpf0EIPrsomYGfPWm9sCm2khkOIRzAfd0k6ZqREAg.PNG.kns2ar/00.png?type=w800"
+    },
+    "51": {
+      "Name": "우레정",
+      "lat": 36.9378976,
+      "lon": 127.691655,
+      "info": "충북 음성군 음성읍 시장로 118",
+      "image": "https://t1.daumcdn.net/cfile/tistory/993165335992691305"
+    },
+    "52": {
+      "Name": "소담밥집",
+      "lat": 37.0404491,
+      "lon": 127.603639,
+      "info": "충북 음성군 생극면 음성로 1725",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTEyMjJfNDQg/MDAxNTc2OTg3MTAwNzY1.TzgVXYddmP59oYTAuyFcNPS7tbWEW9wWu7qUoLfE3f0g.67B-SgNO8i_zMTBzo-rBaqbYOPlhc5_QOTelvewJpn0g.JPEG.babo8913/1576987098873.JPG?type=w800"
+    },
+    "53": {
+      "Name": "생극해장국",
+      "lat": 37.0121813,
+      "lon": 127.600404,
+      "info": "충북 음성군 생극면 음성로 1384",
+      "image": "https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=13276656&filePath=L2Rpc2sxL25ld2RhdGEvMjAyMC8yMS9DTFMxMDAwNi8xMzI3NjY1Nl9XUlRfMjFfQ0xTMTAwMDZfMjAyMDEyMThfMQ==&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10006"
+    },
+    "54": {
+      "Name": "평강가든",
+      "lat": 37.1185027,
+      "lon": 127.643964,
+      "info": "충북 음성군 감곡면 장감로179번길 20",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjhfNzQg/MDAxNTg4MDUxMzM2Mjgy.SU6eAxmqBI-honCquLDyijEFoTcQvQttObXjJmfnwFkg.cg-_Qp1Pf-8XWC1oEK_YRa-68YmvlvDOnZeEozd-8TUg.JPEG.suzie_kay/IMG_2866.JPG?type=w800"
+    },
+    "55": {
+      "Name": "외할머니집",
+      "lat": 37.1172990,
+      "lon": 127.667784,
+      "info": "충북 음성군 감곡면 가곡로 230",
+      "image": "https://img.siksinhot.com/place/1682561297859039.jpg?w=508&h=412&c=Y"
+    },
+    "56": {
+      "Name": "백향담",
+      "lat": 36.9824581,
+      "lon": 128.370619,
+      "info": "충북 단양군 단양읍 수변로 79 2층",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjAzMDRfMTc3/MDAxNjQ2MzcxMzQ1NjU2.nsdRezH1ZSm-W0Jmkpqiq8pHR2BBMqUAFXkz_g6iEW8g.jgVyyLvLZwQeqhfzFbcZy5ouTgpsTcE9r-yBH0_y2eQg.JPEG.sunny881202/1_(1).jpg?type=w800"
+    },
+    "57": {
+      "Name": "대교식당",
+      "lat": 36.9863334,
+      "lon": 128.370542,
+      "info": "충북 단양군 단양읍 중앙2로 9",
+      "image": "https://res.heraldm.com/content/image/2020/12/23/20201223000291_0.jpg"
+    },
+    "58": {
+      "Name": "성원마늘약선요리",
+      "lat": 36.9808728,
+      "lon": 128.350914,
+      "info": "충북 단양군 단양읍 삼봉로 59",
+      "image": "https://www.onlmenu.com/data/file/sb/238221189_pWaUolg8_98d2e51b8a27f5347b4c11aa5459ed2c3652fd70.jpg"
+    },
+    "59": {
+      "Name": "마느리막국수",
+      "lat": 36.9796273,
+      "lon": 128.352678,
+      "info": "충북 단양군 단양읍 삼봉로 79",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/69/2857869_image2_1.jpg"
+    },
+    "60": {
+      "Name": "단양흑마늘닭강정",
+      "lat": 36.9825225,
+      "lon": 128.369722,
+      "info": "충북 단양군 단양읍 도전4길 30 115호",
+      "image": "https://blog.kakaocdn.net/dn/bmrPAu/btqSNlwNvMo/q0kM7Kfn1I1ABpxnjOUHNK/img.jpg"
+    },
+    "61": {
+      "Name": "마늘석갈비막국수",
+      "lat": 36.9430022,
+      "lon": 128.330232,
+      "info": "충북 단양군 단양읍 단양로 510",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMzAxMDVfMjQy/MDAxNjcyODQ3NDEwNjk5.pOVzyUhB-qGFqZEKqGxGwrhXl_DQRmRvToMJYqEffXwg.6eSaZ2RsFrvIEPjIP_OGgz2d6-9FENgNN3R33ULwdeog.JPEG.m33tjth/IMG_3514.jpg?type=w800"
+    },
+    "62": {
+      "Name": "가연",
+      "lat": 36.9791968,
+      "lon": 128.353299,
+      "info": "충북 단양군 단양읍 삼봉로 87",
+      "image": "https://img.siksinhot.com/place/1535529306765008.JPG"
+    },
+    "63": {
+      "Name": "복천가든",
+      "lat": 37.0616520,
+      "lon": 128.494180,
+      "info": "충북 단양군 영춘면 온달로 22-4",
+      "image": "https://tong.visitkorea.or.kr/cms/resource/46/2791746_image2_1.jpg"
+    },
+    "64": {
+      "Name": "해성한식",
+      "lat": 37.0786367,
+      "lon": 128.484033,
+      "info": "충북 단양군 영춘면 온달평강로 56-1",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDA1MTlfMjQ2/MDAxNTg5ODUyNDQ1MTk5.zJOBLpZSbahyJMC1Mh_udt6yQpsoAOLU_036NaPLYksg.oesPWRa7iiNEsb4GjWT3y_StKTRtkWdicNgFWGlCF2Qg.JPEG.generalpooh/KakaoTalk_20200519_103445170_02.jpg?type=w800"
+    },
+    "65": {
+      "Name": "마산아구타운",
+      "lat": 36.1686520,
+      "lon": 127.777029,
+      "info": "충북 영동군 영동읍 영동황간로 39",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDAxMDFfMTM0/MDAxNTc3ODY3NTc1MzIz.k1SIc-3tFMk4BJEQGYsN3mIUcJSfB5Q21dujKxpf728g.4fNLKaiAnOcj7iFSCJXIKPLrCU1kNGrt7sRPNKTfz_Eg.JPEG.gmldi72722/SE-292b44a7-5846-4cca-97ce-b307f0843d17.jpg?type=w800"
+    },
+    "66": {
+      "Name": "리틀파스타영동점",
+      "lat": 36.1710528,
+      "lon": 127.773674,
+      "info": "충북 영동군 영동읍 부용동1로 18 2층",
+      "image": "https://d12zq4w4guyljn.cloudfront.net/750_750_20230323065426_photo1_oB7Vhsap7vlD.jpg"
+    },
+    "67": {
+      "Name": "한솔식당",
+      "lat": 36.1273875,
+      "lon": 127.677269,
+      "info": "충북 영동군 양산면 송호리 266-1",
+      "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMjExMjlfMTAx%2FMDAxNjY5Njc2NTM0NDMx.lim5AA0K851VeGKUrxDWOHR3O0APgDydzdRECaeLK4Eg.6Bmt_UnmYVvHPqhT1hrZ4T72oATZ5u12DYCmY7V4-Mwg.JPEG%2F20221030_115723.jpg"
+    },
+    "68": {
+      "Name": "착한감자탕",
+      "lat": 36.1242860,
+      "lon": 127.667878,
+      "info": "충북 영동군 양산면 금강로 1505",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA1MDNfMTUg%2FMDAxNTU2ODc3MTU1MzA2.yulZ7wRstbUYkgPTaFAswM-4d54oX0N4raFDWscrPlcg.yzqjPd0IqfFv0DNMBkqktyzqydcDC_eNnxKLZqqcjjcg.JPEG.soulstar7732%2F20190503_112422.jpg"
+    },
+    "69": {
+      "Name": "어락",
+      "lat": 36.1766286,
+      "lon": 127.775452,
+      "info": "충북 영동군 영동읍 영산로3길 10",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MDNfMjA2%2FMDAxNjYyMTc1NDc4ODMy.mfKRBfAUAG6FdukoOUSV-Rn4VpHhtM-fkSKnKjcVwl8g.IrdwWDZrmjR8fUXUJTPGpkGflbG3hGh5FwDZmpjsY4Ag.JPEG.radosc0407%2FIMG_6355.jpg&type=sc960_832"
+    },
+    "70": {
+      "Name": "장생생고기",
+      "lat": 36.1749198,
+      "lon": 127.774912,
+      "info": "충북 영동군 영동읍 영동시장1길 9-3",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDEwMjFfMTQ3/MDAxNjAzMjQyODkxMzY2.6VjH4VERBeJPUUe7Av5ClAyu-6k8SsEvkz02Is4jLY8g.l9HtsiFguogYvkpKspiPdY4tThh3FeSC5A8s_4ERgVYg.JPEG.minbr526/20201001_213726.jpg?type=w800"
+    },
+    "71": {
+      "Name": "만리장",
+      "lat": 36.1720476,
+      "lon": 127.781475,
+      "info": "충북 영동군 영동읍 계산로4길 11-2",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzA2MDZfMzAg/MDAxNDk2NzQxMjMwNTU4.kvrL1JF_URPIDC5ShaxLMPh7EGsmAP-k21B9wTQdt_og.OyxiUcwn1lYhOjTHdSHBxjpQV7oZ7oG6ey2sqTeJT5Ig.JPEG.songomida/20170606_173115.jpg?type=w800"
+    },
+    "72": {
+      "Name": "공주칼국수",
+      "lat": 36.1726477,
+      "lon": 127.782037,
+      "info": "충북 영동군 영동읍 계산로4길 1",
+      "image": "https://blog.kakaocdn.net/dn/yVfJo/btrpus0wo9M/C92AtgLypRkkM2Kecomiy1/img.jpg"
+    },
+    "73": {
+      "Name": "조선시대가든",
+      "lat": 36.8106391,
+      "lon": 127.583746,
+      "info": "충북 증평군 증평읍 인삼로 377-1",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODEyMDVfMjU1/MDAxNTQzOTQxMTgwMjUy.5T4ib4mdy4jH3KEAGdk-ifuhA5eQoUr0Dn5r8MJIXUsg.Iu1bnUNqkBic7GGFNHOT1NCbKFi3d38iQ2_qcf5e1uEg.JPEG.jiay2275/IMG_9529.jpg?type=w800"
+    },
+    "74": {
+      "Name": "초향기칼국수",
+      "lat": 36.8601488,
+      "lon": 127.629022,
+      "info": "충북 음성군 원남면 충청대로 327",
+      "image": "https://img.siksinhot.com/place/1478598473749945.jpg?w=307&h=300&c=Y"
+    },
+    "75": {
+      "Name": "손두부촌식당",
+      "lat": 36.7166780,
+      "lon": 127.638945,
+      "info": "충북 증평군 증평읍 율리휴양로 307",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTExMzBfNDIg/MDAxNjM4MjYxMTIwMjUw.eo-qdTxo4mBa2cK3_7Qx7RIHzM4jqqfhuMs3h2YltWsg.-sVxg7_EFfJj04O4FWPiyKMk1Z3AQgiI42rBJc4aBxgg.JPEG.sunhyeon4/KakaoTalk_20211130_164726611_15.jpg?type=w800"
+    },
+    "76": {
+      "Name": "토지",
+      "lat": 36.7318813,
+      "lon": 127.614620,
+      "info": "충북 증평군 증평읍 초정약수로1039",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODA3MjlfMjc3/MDAxNTMyODY5MzA5NTk2.CEZ3ihgC1eq5MRuob2eyOoc4vjw4KIk5BogbIKGatbUg.o6WqBwHRZxRzdYWorChTQ_hKr9ReLSh8t1_r9T22Azkg.JPEG.loj0916/20180728_123628.jpg?type=w800"
+    },
+    "77": {
+      "Name": "황제시래기명태조림",
+      "lat": 36.7887328,
+      "lon": 127.578360,
+      "info": "충북 증평군 증평읍 인삼로 75",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMjA1MDNfMTk3/MDAxNjUxNTQzNTI4Mzg0.yJM8BxSq6cm9Dc_z2idD5LUmO06700f3pvffy8sndLcg.bFabHSXd1_cZLXYqRyPGxqc9_1xUKmcumn36k3DmpY0g.JPEG.atrudtge/SE-c61f1a56-acab-4335-a3d9-4dd0e95465d9.jpg?type=w800"
+    },
+    "78": {
+      "Name": "원갈비",
+      "lat": 36.7863555,
+      "lon": 127.583563,
+      "info": "충북 증평군 증평읍 중앙로 235",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MDdfMjMw%2FMDAxNTk0MTIyNDYzMjQ5.OW7JGlxCe6x13vgfLFUyq_-aumI-NkHflJUNNT5haJwg.-BDs66U4yr_qsdOEZFNfXFvye09D6fGKgBAPCJY1yKUg.JPEG.12399gjsmf%2FNaverBlog_20200707_204742_21.jpg&type=sc960_832"
+    },
+    "79": {
+      "Name": "산촌묵밥",
+      "lat": 36.7730943,
+      "lon": 127.593924,
+      "info": "충북 증평군 증평읍 삼성길 21",
+      "image": "https://emmaru.com/matzip/include/pics/2021/09/08/m_36308E182501_10.jpg"
+    },
+    "80": {
+      "Name": "향토식당",
+      "lat": 36.7806018,
+      "lon": 127.582690,
+      "info": "충북 증평군 증평읍 삼일로3길 13",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTExMDhfMjAx/MDAxNjM2MzgyNzUwNDk5.curFY5uHnx3AxuZom0YUlxPy_XQ4DadaLBPWPdfJAVUg.Gk9yHsH5IqldF9qpblRz68I_x9Smox8TFsV6Z5DBA4gg.JPEG.ray203/DSCF0035.JPG?type=w800"
+    },
+    "81": {
+      "Name": "진천숯불고기",
+      "lat": 36.8216868,
+      "lon": 127.413443,
+      "info": "충북 진천군 진천읍 사석1길 3",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDAzMjdfODkg/MDAxNTg1Mjk1Mjc3MTUz.pC1F4vtT45tnGtQx0Xc6nyMDHVth41V5mnMLlINicSkg.-wcLV9FEBnjknwy5L5c-ZPBeWiiPZMLxYZxGD9cefd0g.JPEG.skillyoyo/1584878160854-11.jpg?type=w800"
+    },
+    "82": {
+      "Name": "산골맛집",
+      "lat": 36.8380196,
+      "lon": 127.379395,
+      "info": "충북 진천군 진천읍 김유신길 169 4",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxODA1MTFfMTcz/MDAxNTI2MDQzNDA3ODQ5.hTLqmiS4TLiQEzKSt3rpFaHJpIHQTBr_741aCj8bYtsg.I4nrsOc215iRkQsX2vlRW0247rQKDV5oVLo0rUd35LYg.JPEG.qwa79/20180511_132534.jpg?type=w800"
+    },
+    "83": {
+      "Name": "쌀밥집곰가내",
+      "lat": 36.8854853,
+      "lon": 127.369151,
+      "info": "충북 진천군 백곡면 백곡로 835-8",
+      "image": "https://img.siksinhot.com/place/1604541619799141.jpeg"
+    },
+    "84": {
+      "Name": "소토골",
+      "lat": 36.9013012,
+      "lon": 127.315091,
+      "info": "충북 진천군 백곡면 소토골길 42-9",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMDEwMjJfMjU5/MDAxNjAzMzUyMTY3MDUw.BSejIQQOdiP9VXXT0t-pFaex9v675dhOab07N-WBAIIg.iv1R6LJe4ufkf2zMrrr1wr0CdEyLmnjXcJMcKQ3TIYQg.JPEG.cbkb21/8.jpg?type=w800"
+    },
+    "85": {
+      "Name": "엽돈재가든",
+      "lat": 36.8979315,
+      "lon": 127.304520,
+      "info": "충북 진천군 백곡면 백곡로 184",
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMjBfMTE2%2FMDAxNjA1ODUzNzg1Njky.um-3Amcu-NmkqonyYTnytR6ytwHAryFSq4hTpPxkMkgg.Gc4cl0ilcHDZ-EIsauDhe-Dtm-DVQFGRceYXOEA_Rhog.JPEG.luckyguysmf%2F20201106_115417.jpg&type=sc960_832"
+    }
+  },
+  "hotel": {
+    "1": {
+      "Name": "청주 나무호텔",
+      "lat": 36.6574300,
+      "lon": 127.528369,
+      "info": "충북 청주시 상당구 명암로293번길 45",
+      "image": "https://pix10.agoda.net/hotelImages/864/864205/864205_15030316090025749408.jpg?ca=3&ce=1&s=1024x768"
+    },
+    "2": {
+      "Name": "리더스호텔",
+      "lat": 36.6654587,
+      "lon": 127.451535,
+      "info": "충북 청주시 흥덕구 송절동 713",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/55832/193021/90090327eba15d4f8379139b6a40e537.jpg"
+    },
+    "3": {
+      "Name": "청주 프렌치코드",
+      "lat": 36.6562956,
+      "lon": 127.483468,
+      "info": "충북 청주시 청원구 우암동 369-8",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/64577/298314/9894b8ec7a362467d1f4601091464f8c.jpg"
+    },
+    "4": {
+      "Name": "호텔 도트",
+      "lat": 36.7146489,
+      "lon": 127.439935,
+      "info": "충북 청주시 청원구 오창읍 양청리 809-1",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/62684/276641/a82b28e63249edda384080d99dee9607.jpg"
+    },
+    "5": {
+      "Name": "호텔오브제",
+      "lat": 36.6309933,
+      "lon": 127.428839,
+      "info": "충북 청주시 흥덕구 복대동 2856",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/1081/427736/159e424c6e194d3a2ded13f6210af18b.jpg"
+    },
+    "6": {
+      "Name": "옥화자연휴양림",
+      "lat": 36.5935679,
+      "lon": 127.700030,
+      "info": "충북 청주시 상당구 미원면 운암옥화길 140",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxOTA1MTlfMTQ0/MDAxNTU4MjQ5NzQ4NDg0.U1-b03Wju4CdnnV72jk4e5hMbDGN1NtpdXhZNcUAsBwg.V4WReltg9OBOTWSG885NJ9J1h_UbjqDsAo1uNXkNyGQg.JPEG.ddabunhe/P1220275t.JPG?type=w800"
+    },
+    "7": {
+      "Name": "충주 스크린",
+      "lat": 36.8462495,
+      "lon": 127.986927,
+      "info": "충북 충주시 수안보면 온천리 773-1",
+      "image": "https://www.hotelscombined.co.kr/himg/2e/1e/56/expediav2-3698263-e59452-645414.jpg"
+
+    },
+    "8": {
+      "Name": "충주 No.25 호텔",
+      "lat": 36.9742938,
+      "lon": 127.911873,
+      "info": "충북 충주시 봉방동 344-9",
+      "image": "https://www.hotelscombined.co.kr/himg/2e/1e/56/expediav2-3698263-e59452-645414.jpg"
+    },
+    "9": {
+      "Name": "충주 호반힐링펜션",
+      "lat": 36.9669335,
+      "lon": 128.011949,
+      "info": "충북 충주시 목벌동 162-3",
+      "image": "https://image.goodchoice.kr/resize_490x348/affiliate/2023/01/20/63ca30c331d69.jpg"
+    },
+    "10": {
+      "Name": "충주탄금호펜션",
+      "lat": 37.0327549,
+      "lon": 127.855960,
+      "info": "충북 충주시 중앙탑면 탑평리 486-5",
+      "image": "https://image.goodchoice.kr/resize_490x348/affiliate/2023/04/21/16/85146e0e4a0a4734b703e7e7a02c183f.jpg"
+    },
+    "11": {
+      "Name": "충주 루엠호텔",
+      "lat": 36.9744349,
+      "lon": 127.909909,
+      "info": "충북 충주시 봉방동 407-9",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/1076/510081/c86fcaecfdadc6a916aa3739ff1a78df.jpg"
+    },
+    "12": {
+      "Name": "제천통나무펜션",
+      "lat": 37.1657075,
+      "lon": 128.109892,
+      "info": "충북 제천시 봉양읍 구학리 212-1",
+      "image": "https://modo-phinf.pstatic.net/20210201_296/1612171847258MzQGa_JPEG/1612171808644881_IMG_7155.jpeg?type=f320_320"
+    },
+    "13": {
+      "Name": "청풍리조트 레이크호텔",
+      "lat": 37.0166909,
+      "lon": 128.177939,
+      "info": "충북 제천시 청풍면 청풍호로 1798",
+      "image": "https://image.goodchoice.kr/resize_490x348/affiliate/2021/08/24/61249f5be5d1a.jpg"
+    },
+    "14": {
+      "Name": "보은 말티",
+      "lat": 36.4906869,
+      "lon": 127.753298,
+      "info": "충북 보은군 보은읍 누청리 296-10",
+      "image": "https://image.goodchoice.kr/resize_490x348/adimg_new/49745/7930/1bba739cc76993601492ffae36eba2ed.jpg"
+    },
+    "15": {
+      "Name": "보은 글램핑",
+      "lat": 36.5248072,
+      "lon": 127.786320,
+      "info": "충북 보은군 속리산면 중판리 170-2",
+      "image": "https://www.5gcamp.com/files/camping/2018/11/18/006695f7c8f470c79cd8a6f70e2451fc003704.jpg"
+    },
+    "16": {
+      "Name": "옥천민박",
+      "lat": 36.2761023,
+      "lon": 127.652505,
+      "info": "충북 옥천군 동이면 적하길 208-146 ",
+      "image": "https://localview.co.kr/cp/thumbnail/306577213.jpg"
+    },
+    "17": {
+      "Name": "나루터펜션",
+      "lat": 36.6974920,
+      "lon": 127.804510,
+      "info": "충북 괴산군 청천면 도경로 272",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAxNzA3MTNfMjIw/MDAxNDk5OTM2NjYxNjc4.uHZruMqRypakqM2TG-EUpKK9JNaGNKzdd-f_G3k9vPAg.hb6MZ6T0v9GRuu63I-le0CcDp4a5vYIGbDA4-xZmHWIg.JPEG.dmsp0407/2009996942_u6Z4a15H_100_3366.jpg?type=w800"
+    },
+    "18": {
+      "Name": "소노문단양",
+      "lat": 36.9780112,
+      "lon": 128.362431,
+      "info": "충북 단양군 단양읍 삼봉로 187-17",
+      "image": "https://mblogthumb-phinf.pstatic.net/MjAyMTAzMzFfNTAg/MDAxNjE3MTc3NDAxNDE4.MRNcrprZhE0wn3uTuwtfjvwPT-rc_pdbmAvHpI4UVpEg.pFfx9PXUIg69im1JSWeoV5PRyEEmWITNZ1kp-Yk8Faog.JPEG.maya_lee/SE-4e840a27-91bb-11eb-a5bb-234a45b0c3d9.jpg?type=w800"
+    },
+    "19": {
+      "Name": "온달스테이펜션",
+      "lat": 37.0553374,
+      "lon": 128.502645,
+      "info": "충북 단양군 영춘면 남천2길 5-11",
+      "image": "https://cdn.imweb.me/thumbnail/20200424/d1a02cd08fe7d.jpg"
+    },
+    "20": {
+      "Name": "증평유스호스텔",
+      "lat": 36.7918890,
+      "lon": 127.568490,
+      "info": "충북 증평군 증평읍 반여울길 32",
+      "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_71%2F1440994775353nFQqv_JPEG%2F11885976_0.jpg&type=sc960_832"
+
+    },
+    "21": {
+      "Name": "힐사이드 캠핑장",
+      "lat": 36.8203234,
+      "lon": 127.432019,
+      "info": "충북 진천군 문백면 태락3길 5-115",
+      "image": "https://campingagains3.s3.ap-northeast-2.amazonaws.com/medium_8_C753_FD_2_77_F3_4112_A9_DD_6_A1_FD_704_F2_AF_1ad9263f17.jpeg"
+    }
+  }
+}

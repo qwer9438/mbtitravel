@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/map_icon_foreground"
+        android:title="지도" />
+
+    <item
+        android:id="@+id/navigation_destination"
+        android:icon="@drawable/baseline_trip_origin_24"
+        android:title="여행지" />
+
+    <item
+        android:id="@+id/navigation_board"
+        android:icon="@drawable/baseline_edit_note_24"
+        android:title="게시판" />
+
+    <item
+        android:id="@+id/navigation_my_trip"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="랭크" />
+</menu>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- 색상 설정 -->
+    <solid android:color="#FFFF00" /> <!-- 노란색 (#FFFF00) -->
+
+    <!-- 둥근 모서리 설정 -->
+    <corners android:radius="20dp" /> <!-- 모서리의 반지름을 조절하여 둥글게 만듭니다. -->
+
+</shape>
