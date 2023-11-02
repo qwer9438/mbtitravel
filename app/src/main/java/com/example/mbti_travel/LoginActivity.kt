@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.LinearLayout
 import com.kakao.sdk.user.UserApiClient
 import android.util.Log
+import android.widget.ImageView
 import android.widget.Toast
 import com.example.mbti_travel.Dialog.Mbti_dialog
 import com.example.mbti_travel.Util.Util
@@ -20,7 +21,7 @@ class LoginActivity : AppCompatActivity() {
     private val TAG = "LoginActivity"
 
     private lateinit var ll_kakao_login : LinearLayout
-    private lateinit var ll_naver_login : LinearLayout
+    private lateinit var lv_naver_login : ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -34,7 +35,7 @@ class LoginActivity : AppCompatActivity() {
 
 
         ll_kakao_login = findViewById<LinearLayout>(R.id.ll_kakao_login)
-        ll_naver_login = findViewById<LinearLayout>(R.id.ll_naver_login)
+        lv_naver_login = findViewById<ImageView>(R.id.iv_naver_login)
 
         ll_kakao_login.setOnClickListener {
             UserApiClient.instance.loginWithKakaoTalk(this) { token, error ->
@@ -90,6 +91,7 @@ class LoginActivity : AppCompatActivity() {
 
                                             val intent = Intent(this, MbtiTestActivity::class.java)
                                             startActivity(intent)
+                                            Toast.makeText(this@LoginActivity, "카카오 회원가입 성공!", Toast.LENGTH_SHORT).show()
                                             finish()
                                         }
                                         .addOnFailureListener { e ->
@@ -109,6 +111,7 @@ class LoginActivity : AppCompatActivity() {
                                         val intent = Intent(this@LoginActivity, MbtiTestActivity::class.java)
                                         startActivity(intent)
                                         finish()
+                                        Toast.makeText(this@LoginActivity, "카카오 아이디 로그인 성공!", Toast.LENGTH_SHORT).show()
 
 
                                     } else {
@@ -122,6 +125,7 @@ class LoginActivity : AppCompatActivity() {
                                         util.saveToSharedPreferences(this, "mbti", mbti)
                                         val intent = Intent(this@LoginActivity, MainActivity::class.java)
                                         startActivity(intent)
+                                        Toast.makeText(this@LoginActivity, "카카오 아이디 로그인 성공!", Toast.LENGTH_SHORT).show()
                                         finish()
                                     }
                                 }
@@ -135,7 +139,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
 
-        ll_naver_login.setOnClickListener {
+        lv_naver_login.setOnClickListener {
             startNaverLogin()
             //val intent = Intent(this,MainActivity::class.java)
             //startActivity(intent)

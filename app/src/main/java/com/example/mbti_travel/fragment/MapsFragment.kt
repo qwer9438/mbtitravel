@@ -53,6 +53,8 @@ class MapsFragment : Fragment(), OnMapReadyCallback, GoogleMap.OnInfoWindowClick
                 intent.data = uri
                 intent.setPackage("com.google.android.apps.maps") // 구글 지도 앱 지정
                 startActivity(intent)
+            }else{
+                Toast.makeText(ctx, "마커를 클릭해주세요.", Toast.LENGTH_SHORT).show()
             }
         }
 
@@ -75,6 +77,8 @@ class MapsFragment : Fragment(), OnMapReadyCallback, GoogleMap.OnInfoWindowClick
                 startActivity(intent)
 
 
+            }else{
+                Toast.makeText(ctx, "마커를 클릭해주세요.", Toast.LENGTH_SHORT).show()
             }
         }
 

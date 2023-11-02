@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     android:orientation="vertical"
     android:padding="16dp">
 
@@ -10,33 +11,49 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="제목"
-        android:inputType="text" />
+        android:inputType="text"
+        android:backgroundTint="@color/primaryColor"
+        android:padding="12dp"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="16sp" />
 
     <EditText
         android:id="@+id/editContent"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:gravity="top"
+        android:background="@drawable/edittext_background"
+        android:gravity="top|start"
         android:hint="내용을 입력하세요."
         android:inputType="textMultiLine"
-        android:lines="5" />
+        android:padding="12dp"
+        android:scrollbars="vertical"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="14sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="right">
+        android:gravity="end"
+        android:paddingTop="16dp">
 
         <Button
             android:id="@+id/btnCancel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="취소" />
+            android:backgroundTint="@color/lightGray"
+            android:text="취소"
+            android:textColor="@color/primaryTextColor"
+            android:padding="12dp"
+            android:layout_marginEnd="8dp" />
 
         <Button
             android:id="@+id/btnConfirm"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="확인" />
+            android:backgroundTint="@color/primaryColor"
+            android:text="확인"
+            android:textColor="@color/white"
+            android:padding="12dp" />
     </LinearLayout>
 </LinearLayout>

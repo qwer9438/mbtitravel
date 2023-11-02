@@ -39,8 +39,9 @@ class BoardWriteActivity() : AppCompatActivity() {
             val util = Util()
             val author = util.loadFromSharedPreferences(this, "nick")
             val currentTime = Calendar.getInstance().timeInMillis
-
-            val board = Board(title, content, author, currentTime)
+            val nick = util.loadFromSharedPreferences(applicationContext, "nick")
+            val id = util.loadFromSharedPreferences(applicationContext, "email")
+            val board = Board(title, content, nick, currentTime, id)
 
             val db = FirebaseFirestore.getInstance()
             db.collection("board")

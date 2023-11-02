@@ -21,22 +21,12 @@
             android:textSize="30dp"/>
     </LinearLayout>
 
-    <LinearLayout
-        android:id="@+id/ll_naver_login"
-        android:background="@drawable/green_rectangle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src="@drawable/naver_icon"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="네이버 로그인"
-            android:textSize="30dp"/>
-    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_naver_login"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:src="@drawable/naver_image"/>
 
 
 
